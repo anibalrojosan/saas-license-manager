@@ -1,0 +1,6002 @@
+[
+    {
+        "id": 1,
+        "name": "Datadog Creative Pack",
+        "provider": "Datadog",
+        "monthly_cost": 323.37
+    },
+    {
+        "id": 2,
+        "name": "Atlassian Cloud Hosting",
+        "provider": "Atlassian",
+        "monthly_cost": 381.37
+    },
+    {
+        "id": 3,
+        "name": "Adobe Project Manager",
+        "provider": "Adobe",
+        "monthly_cost": 261.31
+    },
+    {
+        "id": 4,
+        "name": "Adobe Team Chat",
+        "provider": "Adobe",
+        "monthly_cost": 188.85
+    },
+    {
+        "id": 5,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 35.68
+    },
+    {
+        "id": 6,
+        "name": "Adobe Enterprise Suite",
+        "provider": "Adobe",
+        "monthly_cost": 193.8
+    },
+    {
+        "id": 7,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 59.33
+    },
+    {
+        "id": 8,
+        "name": "Microsoft Team Chat",
+        "provider": "Microsoft",
+        "monthly_cost": 243.25
+    },
+    {
+        "id": 9,
+        "name": "Google Cloud Enterprise Suite",
+        "provider": "Google Cloud",
+        "monthly_cost": 67.65
+    },
+    {
+        "id": 10,
+        "name": "Adobe Creative Pack",
+        "provider": "Adobe",
+        "monthly_cost": 279.46
+    },
+    {
+        "id": 11,
+        "name": "Salesforce Cloud Hosting",
+        "provider": "Salesforce",
+        "monthly_cost": 252.6
+    },
+    {
+        "id": 12,
+        "name": "Slack Project Manager",
+        "provider": "Slack",
+        "monthly_cost": 495.84
+    },
+    {
+        "id": 13,
+        "name": "Atlassian Team Chat",
+        "provider": "Atlassian",
+        "monthly_cost": 485.07
+    },
+    {
+        "id": 14,
+        "name": "Salesforce Cloud Hosting",
+        "provider": "Salesforce",
+        "monthly_cost": 230.78
+    },
+    {
+        "id": 15,
+        "name": "Adobe Cloud Hosting",
+        "provider": "Adobe",
+        "monthly_cost": 65.07
+    },
+    {
+        "id": 16,
+        "name": "Google Cloud Project Manager",
+        "provider": "Google Cloud",
+        "monthly_cost": 480.73
+    },
+    {
+        "id": 17,
+        "name": "Adobe Project Manager",
+        "provider": "Adobe",
+        "monthly_cost": 365.9
+    },
+    {
+        "id": 18,
+        "name": "AWS Analytics Pro",
+        "provider": "AWS",
+        "monthly_cost": 466.22
+    },
+    {
+        "id": 19,
+        "name": "Slack Cloud Hosting",
+        "provider": "Slack",
+        "monthly_cost": 486.5
+    },
+    {
+        "id": 20,
+        "name": "AWS Creative Pack",
+        "provider": "AWS",
+        "monthly_cost": 150.07
+    },
+    {
+        "id": 21,
+        "name": "Atlassian Creative Pack",
+        "provider": "Atlassian",
+        "monthly_cost": 411.09
+    },
+    {
+        "id": 22,
+        "name": "Atlassian Creative Pack",
+        "provider": "Atlassian",
+        "monthly_cost": 116.16
+    },
+    {
+        "id": 23,
+        "name": "Datadog CRM Basic",
+        "provider": "Datadog",
+        "monthly_cost": 138.98
+    },
+    {
+        "id": 24,
+        "name": "Slack Cloud Hosting",
+        "provider": "Slack",
+        "monthly_cost": 272.8
+    },
+    {
+        "id": 25,
+        "name": "Salesforce Enterprise Suite",
+        "provider": "Salesforce",
+        "monthly_cost": 363.17
+    },
+    {
+        "id": 26,
+        "name": "Slack CRM Basic",
+        "provider": "Slack",
+        "monthly_cost": 342.91
+    },
+    {
+        "id": 27,
+        "name": "Google Cloud Enterprise Suite",
+        "provider": "Google Cloud",
+        "monthly_cost": 238.8
+    },
+    {
+        "id": 28,
+        "name": "Atlassian Cloud Hosting",
+        "provider": "Atlassian",
+        "monthly_cost": 75.06
+    },
+    {
+        "id": 29,
+        "name": "Atlassian Monitoring Tool",
+        "provider": "Atlassian",
+        "monthly_cost": 139.53
+    },
+    {
+        "id": 30,
+        "name": "Microsoft Monitoring Tool",
+        "provider": "Microsoft",
+        "monthly_cost": 170.01
+    },
+    {
+        "id": 31,
+        "name": "Google Cloud Analytics Pro",
+        "provider": "Google Cloud",
+        "monthly_cost": 158.59
+    },
+    {
+        "id": 32,
+        "name": "Slack Monitoring Tool",
+        "provider": "Slack",
+        "monthly_cost": 481.31
+    },
+    {
+        "id": 33,
+        "name": "Adobe Analytics Pro",
+        "provider": "Adobe",
+        "monthly_cost": 470.39
+    },
+    {
+        "id": 34,
+        "name": "Adobe Creative Pack",
+        "provider": "Adobe",
+        "monthly_cost": 213.65
+    },
+    {
+        "id": 35,
+        "name": "Atlassian Team Chat",
+        "provider": "Atlassian",
+        "monthly_cost": 215.66
+    },
+    {
+        "id": 36,
+        "name": "Adobe Team Chat",
+        "provider": "Adobe",
+        "monthly_cost": 366.38
+    },
+    {
+        "id": 37,
+        "name": "Salesforce Creative Pack",
+        "provider": "Salesforce",
+        "monthly_cost": 391.12
+    },
+    {
+        "id": 38,
+        "name": "Adobe Project Manager",
+        "provider": "Adobe",
+        "monthly_cost": 105.13
+    },
+    {
+        "id": 39,
+        "name": "Datadog Monitoring Tool",
+        "provider": "Datadog",
+        "monthly_cost": 288.05
+    },
+    {
+        "id": 40,
+        "name": "Datadog Creative Pack",
+        "provider": "Datadog",
+        "monthly_cost": 297.44
+    },
+    {
+        "id": 41,
+        "name": "Datadog Cloud Hosting",
+        "provider": "Datadog",
+        "monthly_cost": 127.63
+    },
+    {
+        "id": 42,
+        "name": "Salesforce Project Manager",
+        "provider": "Salesforce",
+        "monthly_cost": 12.36
+    },
+    {
+        "id": 43,
+        "name": "Slack Enterprise Suite",
+        "provider": "Slack",
+        "monthly_cost": 439.68
+    },
+    {
+        "id": 44,
+        "name": "Datadog Creative Pack",
+        "provider": "Datadog",
+        "monthly_cost": 80.98
+    },
+    {
+        "id": 45,
+        "name": "Slack Enterprise Suite",
+        "provider": "Slack",
+        "monthly_cost": 441.78
+    },
+    {
+        "id": 46,
+        "name": "Adobe Project Manager",
+        "provider": "Adobe",
+        "monthly_cost": 294.97
+    },
+    {
+        "id": 47,
+        "name": "AWS Team Chat",
+        "provider": "AWS",
+        "monthly_cost": 279.68
+    },
+    {
+        "id": 48,
+        "name": "Slack CRM Basic",
+        "provider": "Slack",
+        "monthly_cost": 433.67
+    },
+    {
+        "id": 49,
+        "name": "Salesforce Monitoring Tool",
+        "provider": "Salesforce",
+        "monthly_cost": 85.9
+    },
+    {
+        "id": 50,
+        "name": "Microsoft Analytics Pro",
+        "provider": "Microsoft",
+        "monthly_cost": 47.72
+    },
+    {
+        "id": 51,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 338.18
+    },
+    {
+        "id": 52,
+        "name": "Microsoft Monitoring Tool",
+        "provider": "Microsoft",
+        "monthly_cost": 490.59
+    },
+    {
+        "id": 53,
+        "name": "Google Cloud Enterprise Suite",
+        "provider": "Google Cloud",
+        "monthly_cost": 100.67
+    },
+    {
+        "id": 54,
+        "name": "Microsoft CRM Basic",
+        "provider": "Microsoft",
+        "monthly_cost": 79.55
+    },
+    {
+        "id": 55,
+        "name": "Slack Enterprise Suite",
+        "provider": "Slack",
+        "monthly_cost": 405.46
+    },
+    {
+        "id": 56,
+        "name": "Adobe Cloud Hosting",
+        "provider": "Adobe",
+        "monthly_cost": 449.15
+    },
+    {
+        "id": 57,
+        "name": "Google Cloud Cloud Hosting",
+        "provider": "Google Cloud",
+        "monthly_cost": 199.67
+    },
+    {
+        "id": 58,
+        "name": "Salesforce Team Chat",
+        "provider": "Salesforce",
+        "monthly_cost": 289.95
+    },
+    {
+        "id": 59,
+        "name": "Datadog Creative Pack",
+        "provider": "Datadog",
+        "monthly_cost": 200.87
+    },
+    {
+        "id": 60,
+        "name": "AWS CRM Basic",
+        "provider": "AWS",
+        "monthly_cost": 350.16
+    },
+    {
+        "id": 61,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 472.82
+    },
+    {
+        "id": 62,
+        "name": "Slack Enterprise Suite",
+        "provider": "Slack",
+        "monthly_cost": 213.14
+    },
+    {
+        "id": 63,
+        "name": "Datadog Team Chat",
+        "provider": "Datadog",
+        "monthly_cost": 443.5
+    },
+    {
+        "id": 64,
+        "name": "Adobe Project Manager",
+        "provider": "Adobe",
+        "monthly_cost": 250.7
+    },
+    {
+        "id": 65,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 206.06
+    },
+    {
+        "id": 66,
+        "name": "Atlassian Monitoring Tool",
+        "provider": "Atlassian",
+        "monthly_cost": 136.64
+    },
+    {
+        "id": 67,
+        "name": "AWS Enterprise Suite",
+        "provider": "AWS",
+        "monthly_cost": 72.71
+    },
+    {
+        "id": 68,
+        "name": "Atlassian Project Manager",
+        "provider": "Atlassian",
+        "monthly_cost": 185.04
+    },
+    {
+        "id": 69,
+        "name": "Adobe Team Chat",
+        "provider": "Adobe",
+        "monthly_cost": 334.38
+    },
+    {
+        "id": 70,
+        "name": "Microsoft CRM Basic",
+        "provider": "Microsoft",
+        "monthly_cost": 133.72
+    },
+    {
+        "id": 71,
+        "name": "Salesforce Enterprise Suite",
+        "provider": "Salesforce",
+        "monthly_cost": 77.8
+    },
+    {
+        "id": 72,
+        "name": "Microsoft Project Manager",
+        "provider": "Microsoft",
+        "monthly_cost": 35.99
+    },
+    {
+        "id": 73,
+        "name": "AWS Project Manager",
+        "provider": "AWS",
+        "monthly_cost": 365.9
+    },
+    {
+        "id": 74,
+        "name": "Salesforce Creative Pack",
+        "provider": "Salesforce",
+        "monthly_cost": 471.3
+    },
+    {
+        "id": 75,
+        "name": "Microsoft Analytics Pro",
+        "provider": "Microsoft",
+        "monthly_cost": 433.36
+    },
+    {
+        "id": 76,
+        "name": "Salesforce Creative Pack",
+        "provider": "Salesforce",
+        "monthly_cost": 379.53
+    },
+    {
+        "id": 77,
+        "name": "Google Cloud CRM Basic",
+        "provider": "Google Cloud",
+        "monthly_cost": 471.97
+    },
+    {
+        "id": 78,
+        "name": "Atlassian Team Chat",
+        "provider": "Atlassian",
+        "monthly_cost": 476.33
+    },
+    {
+        "id": 79,
+        "name": "AWS Project Manager",
+        "provider": "AWS",
+        "monthly_cost": 302.69
+    },
+    {
+        "id": 80,
+        "name": "Atlassian Analytics Pro",
+        "provider": "Atlassian",
+        "monthly_cost": 44.7
+    },
+    {
+        "id": 81,
+        "name": "Salesforce Analytics Pro",
+        "provider": "Salesforce",
+        "monthly_cost": 313.29
+    },
+    {
+        "id": 82,
+        "name": "AWS Creative Pack",
+        "provider": "AWS",
+        "monthly_cost": 234.13
+    },
+    {
+        "id": 83,
+        "name": "Adobe Analytics Pro",
+        "provider": "Adobe",
+        "monthly_cost": 285.33
+    },
+    {
+        "id": 84,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 58.82
+    },
+    {
+        "id": 85,
+        "name": "Salesforce Enterprise Suite",
+        "provider": "Salesforce",
+        "monthly_cost": 269.05
+    },
+    {
+        "id": 86,
+        "name": "Adobe Team Chat",
+        "provider": "Adobe",
+        "monthly_cost": 321.46
+    },
+    {
+        "id": 87,
+        "name": "Adobe Enterprise Suite",
+        "provider": "Adobe",
+        "monthly_cost": 290.26
+    },
+    {
+        "id": 88,
+        "name": "Slack CRM Basic",
+        "provider": "Slack",
+        "monthly_cost": 349.5
+    },
+    {
+        "id": 89,
+        "name": "Microsoft Project Manager",
+        "provider": "Microsoft",
+        "monthly_cost": 329.2
+    },
+    {
+        "id": 90,
+        "name": "Google Cloud Team Chat",
+        "provider": "Google Cloud",
+        "monthly_cost": 340.62
+    },
+    {
+        "id": 91,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 484.13
+    },
+    {
+        "id": 92,
+        "name": "Microsoft Analytics Pro",
+        "provider": "Microsoft",
+        "monthly_cost": 212.31
+    },
+    {
+        "id": 93,
+        "name": "Datadog Project Manager",
+        "provider": "Datadog",
+        "monthly_cost": 239.54
+    },
+    {
+        "id": 94,
+        "name": "Adobe Project Manager",
+        "provider": "Adobe",
+        "monthly_cost": 49.29
+    },
+    {
+        "id": 95,
+        "name": "Datadog Analytics Pro",
+        "provider": "Datadog",
+        "monthly_cost": 385.87
+    },
+    {
+        "id": 96,
+        "name": "Google Cloud CRM Basic",
+        "provider": "Google Cloud",
+        "monthly_cost": 309.6
+    },
+    {
+        "id": 97,
+        "name": "Atlassian Enterprise Suite",
+        "provider": "Atlassian",
+        "monthly_cost": 452.45
+    },
+    {
+        "id": 98,
+        "name": "Salesforce Project Manager",
+        "provider": "Salesforce",
+        "monthly_cost": 256.69
+    },
+    {
+        "id": 99,
+        "name": "Adobe Creative Pack",
+        "provider": "Adobe",
+        "monthly_cost": 30.49
+    },
+    {
+        "id": 100,
+        "name": "Adobe Monitoring Tool",
+        "provider": "Adobe",
+        "monthly_cost": 340.92
+    },
+    {
+        "id": 101,
+        "name": "AWS CRM Basic",
+        "provider": "AWS",
+        "monthly_cost": 384.58
+    },
+    {
+        "id": 102,
+        "name": "AWS Enterprise Suite",
+        "provider": "AWS",
+        "monthly_cost": 313.44
+    },
+    {
+        "id": 103,
+        "name": "Salesforce Enterprise Suite",
+        "provider": "Salesforce",
+        "monthly_cost": 30.19
+    },
+    {
+        "id": 104,
+        "name": "Slack Monitoring Tool",
+        "provider": "Slack",
+        "monthly_cost": 370.01
+    },
+    {
+        "id": 105,
+        "name": "Atlassian Project Manager",
+        "provider": "Atlassian",
+        "monthly_cost": 206.73
+    },
+    {
+        "id": 106,
+        "name": "Adobe Creative Pack",
+        "provider": "Adobe",
+        "monthly_cost": 122.08
+    },
+    {
+        "id": 107,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 126.91
+    },
+    {
+        "id": 108,
+        "name": "Slack Cloud Hosting",
+        "provider": "Slack",
+        "monthly_cost": 169.88
+    },
+    {
+        "id": 109,
+        "name": "Adobe Creative Pack",
+        "provider": "Adobe",
+        "monthly_cost": 234.97
+    },
+    {
+        "id": 110,
+        "name": "AWS CRM Basic",
+        "provider": "AWS",
+        "monthly_cost": 334.88
+    },
+    {
+        "id": 111,
+        "name": "Datadog Enterprise Suite",
+        "provider": "Datadog",
+        "monthly_cost": 246.37
+    },
+    {
+        "id": 112,
+        "name": "Adobe Team Chat",
+        "provider": "Adobe",
+        "monthly_cost": 413.99
+    },
+    {
+        "id": 113,
+        "name": "Atlassian Team Chat",
+        "provider": "Atlassian",
+        "monthly_cost": 85.86
+    },
+    {
+        "id": 114,
+        "name": "Microsoft Monitoring Tool",
+        "provider": "Microsoft",
+        "monthly_cost": 302.59
+    },
+    {
+        "id": 115,
+        "name": "Adobe Team Chat",
+        "provider": "Adobe",
+        "monthly_cost": 483.13
+    },
+    {
+        "id": 116,
+        "name": "AWS Monitoring Tool",
+        "provider": "AWS",
+        "monthly_cost": 452.21
+    },
+    {
+        "id": 117,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 193.8
+    },
+    {
+        "id": 118,
+        "name": "Atlassian Monitoring Tool",
+        "provider": "Atlassian",
+        "monthly_cost": 164.73
+    },
+    {
+        "id": 119,
+        "name": "Google Cloud Team Chat",
+        "provider": "Google Cloud",
+        "monthly_cost": 483.63
+    },
+    {
+        "id": 120,
+        "name": "Atlassian Project Manager",
+        "provider": "Atlassian",
+        "monthly_cost": 239.08
+    },
+    {
+        "id": 121,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 19.47
+    },
+    {
+        "id": 122,
+        "name": "Atlassian Monitoring Tool",
+        "provider": "Atlassian",
+        "monthly_cost": 349.26
+    },
+    {
+        "id": 123,
+        "name": "Salesforce Creative Pack",
+        "provider": "Salesforce",
+        "monthly_cost": 403.06
+    },
+    {
+        "id": 124,
+        "name": "Salesforce Cloud Hosting",
+        "provider": "Salesforce",
+        "monthly_cost": 75.44
+    },
+    {
+        "id": 125,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 242.57
+    },
+    {
+        "id": 126,
+        "name": "Google Cloud Team Chat",
+        "provider": "Google Cloud",
+        "monthly_cost": 222.1
+    },
+    {
+        "id": 127,
+        "name": "Datadog Monitoring Tool",
+        "provider": "Datadog",
+        "monthly_cost": 378.77
+    },
+    {
+        "id": 128,
+        "name": "Slack Team Chat",
+        "provider": "Slack",
+        "monthly_cost": 260.21
+    },
+    {
+        "id": 129,
+        "name": "Google Cloud Enterprise Suite",
+        "provider": "Google Cloud",
+        "monthly_cost": 480.89
+    },
+    {
+        "id": 130,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 356.16
+    },
+    {
+        "id": 131,
+        "name": "Adobe Creative Pack",
+        "provider": "Adobe",
+        "monthly_cost": 354.97
+    },
+    {
+        "id": 132,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 297.1
+    },
+    {
+        "id": 133,
+        "name": "Google Cloud Monitoring Tool",
+        "provider": "Google Cloud",
+        "monthly_cost": 264.07
+    },
+    {
+        "id": 134,
+        "name": "Salesforce Monitoring Tool",
+        "provider": "Salesforce",
+        "monthly_cost": 281.81
+    },
+    {
+        "id": 135,
+        "name": "Slack Team Chat",
+        "provider": "Slack",
+        "monthly_cost": 202.57
+    },
+    {
+        "id": 136,
+        "name": "Slack Creative Pack",
+        "provider": "Slack",
+        "monthly_cost": 423.94
+    },
+    {
+        "id": 137,
+        "name": "Salesforce Cloud Hosting",
+        "provider": "Salesforce",
+        "monthly_cost": 42.97
+    },
+    {
+        "id": 138,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 77.64
+    },
+    {
+        "id": 139,
+        "name": "Salesforce Creative Pack",
+        "provider": "Salesforce",
+        "monthly_cost": 171.01
+    },
+    {
+        "id": 140,
+        "name": "Microsoft Monitoring Tool",
+        "provider": "Microsoft",
+        "monthly_cost": 466.94
+    },
+    {
+        "id": 141,
+        "name": "AWS Analytics Pro",
+        "provider": "AWS",
+        "monthly_cost": 181.87
+    },
+    {
+        "id": 142,
+        "name": "Datadog Team Chat",
+        "provider": "Datadog",
+        "monthly_cost": 26.97
+    },
+    {
+        "id": 143,
+        "name": "Atlassian Analytics Pro",
+        "provider": "Atlassian",
+        "monthly_cost": 46.75
+    },
+    {
+        "id": 144,
+        "name": "Adobe Project Manager",
+        "provider": "Adobe",
+        "monthly_cost": 139.44
+    },
+    {
+        "id": 145,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 54.51
+    },
+    {
+        "id": 146,
+        "name": "Datadog Creative Pack",
+        "provider": "Datadog",
+        "monthly_cost": 441.76
+    },
+    {
+        "id": 147,
+        "name": "Microsoft Project Manager",
+        "provider": "Microsoft",
+        "monthly_cost": 121.45
+    },
+    {
+        "id": 148,
+        "name": "Salesforce Cloud Hosting",
+        "provider": "Salesforce",
+        "monthly_cost": 455.66
+    },
+    {
+        "id": 149,
+        "name": "Atlassian Monitoring Tool",
+        "provider": "Atlassian",
+        "monthly_cost": 121.96
+    },
+    {
+        "id": 150,
+        "name": "AWS Enterprise Suite",
+        "provider": "AWS",
+        "monthly_cost": 47.99
+    },
+    {
+        "id": 151,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 132.09
+    },
+    {
+        "id": 152,
+        "name": "Microsoft Cloud Hosting",
+        "provider": "Microsoft",
+        "monthly_cost": 283.48
+    },
+    {
+        "id": 153,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 312.55
+    },
+    {
+        "id": 154,
+        "name": "Slack Cloud Hosting",
+        "provider": "Slack",
+        "monthly_cost": 261.28
+    },
+    {
+        "id": 155,
+        "name": "Datadog Enterprise Suite",
+        "provider": "Datadog",
+        "monthly_cost": 166.12
+    },
+    {
+        "id": 156,
+        "name": "Google Cloud Cloud Hosting",
+        "provider": "Google Cloud",
+        "monthly_cost": 213.51
+    },
+    {
+        "id": 157,
+        "name": "AWS Cloud Hosting",
+        "provider": "AWS",
+        "monthly_cost": 199.88
+    },
+    {
+        "id": 158,
+        "name": "Adobe Enterprise Suite",
+        "provider": "Adobe",
+        "monthly_cost": 179.38
+    },
+    {
+        "id": 159,
+        "name": "Datadog Team Chat",
+        "provider": "Datadog",
+        "monthly_cost": 107.93
+    },
+    {
+        "id": 160,
+        "name": "Salesforce Monitoring Tool",
+        "provider": "Salesforce",
+        "monthly_cost": 317.22
+    },
+    {
+        "id": 161,
+        "name": "Google Cloud Team Chat",
+        "provider": "Google Cloud",
+        "monthly_cost": 327.58
+    },
+    {
+        "id": 162,
+        "name": "Adobe Analytics Pro",
+        "provider": "Adobe",
+        "monthly_cost": 34.75
+    },
+    {
+        "id": 163,
+        "name": "Atlassian Team Chat",
+        "provider": "Atlassian",
+        "monthly_cost": 227.35
+    },
+    {
+        "id": 164,
+        "name": "Microsoft CRM Basic",
+        "provider": "Microsoft",
+        "monthly_cost": 450.5
+    },
+    {
+        "id": 165,
+        "name": "Microsoft Enterprise Suite",
+        "provider": "Microsoft",
+        "monthly_cost": 117.81
+    },
+    {
+        "id": 166,
+        "name": "Google Cloud Monitoring Tool",
+        "provider": "Google Cloud",
+        "monthly_cost": 368.08
+    },
+    {
+        "id": 167,
+        "name": "Datadog Project Manager",
+        "provider": "Datadog",
+        "monthly_cost": 418.0
+    },
+    {
+        "id": 168,
+        "name": "Google Cloud Project Manager",
+        "provider": "Google Cloud",
+        "monthly_cost": 451.13
+    },
+    {
+        "id": 169,
+        "name": "Adobe Enterprise Suite",
+        "provider": "Adobe",
+        "monthly_cost": 39.77
+    },
+    {
+        "id": 170,
+        "name": "Adobe Enterprise Suite",
+        "provider": "Adobe",
+        "monthly_cost": 405.9
+    },
+    {
+        "id": 171,
+        "name": "Google Cloud Cloud Hosting",
+        "provider": "Google Cloud",
+        "monthly_cost": 431.62
+    },
+    {
+        "id": 172,
+        "name": "Microsoft Analytics Pro",
+        "provider": "Microsoft",
+        "monthly_cost": 477.24
+    },
+    {
+        "id": 173,
+        "name": "Atlassian CRM Basic",
+        "provider": "Atlassian",
+        "monthly_cost": 375.98
+    },
+    {
+        "id": 174,
+        "name": "Microsoft CRM Basic",
+        "provider": "Microsoft",
+        "monthly_cost": 154.25
+    },
+    {
+        "id": 175,
+        "name": "Google Cloud Creative Pack",
+        "provider": "Google Cloud",
+        "monthly_cost": 24.77
+    },
+    {
+        "id": 176,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 303.36
+    },
+    {
+        "id": 177,
+        "name": "AWS Analytics Pro",
+        "provider": "AWS",
+        "monthly_cost": 281.77
+    },
+    {
+        "id": 178,
+        "name": "Adobe Project Manager",
+        "provider": "Adobe",
+        "monthly_cost": 437.44
+    },
+    {
+        "id": 179,
+        "name": "Google Cloud CRM Basic",
+        "provider": "Google Cloud",
+        "monthly_cost": 97.41
+    },
+    {
+        "id": 180,
+        "name": "Salesforce Enterprise Suite",
+        "provider": "Salesforce",
+        "monthly_cost": 375.0
+    },
+    {
+        "id": 181,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 282.01
+    },
+    {
+        "id": 182,
+        "name": "Google Cloud Project Manager",
+        "provider": "Google Cloud",
+        "monthly_cost": 494.68
+    },
+    {
+        "id": 183,
+        "name": "AWS Monitoring Tool",
+        "provider": "AWS",
+        "monthly_cost": 176.14
+    },
+    {
+        "id": 184,
+        "name": "Slack Project Manager",
+        "provider": "Slack",
+        "monthly_cost": 316.42
+    },
+    {
+        "id": 185,
+        "name": "Datadog CRM Basic",
+        "provider": "Datadog",
+        "monthly_cost": 463.0
+    },
+    {
+        "id": 186,
+        "name": "Adobe Enterprise Suite",
+        "provider": "Adobe",
+        "monthly_cost": 420.31
+    },
+    {
+        "id": 187,
+        "name": "Adobe Creative Pack",
+        "provider": "Adobe",
+        "monthly_cost": 85.61
+    },
+    {
+        "id": 188,
+        "name": "Salesforce Team Chat",
+        "provider": "Salesforce",
+        "monthly_cost": 269.3
+    },
+    {
+        "id": 189,
+        "name": "Datadog Creative Pack",
+        "provider": "Datadog",
+        "monthly_cost": 218.46
+    },
+    {
+        "id": 190,
+        "name": "AWS Project Manager",
+        "provider": "AWS",
+        "monthly_cost": 488.75
+    },
+    {
+        "id": 191,
+        "name": "Google Cloud Creative Pack",
+        "provider": "Google Cloud",
+        "monthly_cost": 408.64
+    },
+    {
+        "id": 192,
+        "name": "Google Cloud Cloud Hosting",
+        "provider": "Google Cloud",
+        "monthly_cost": 86.05
+    },
+    {
+        "id": 193,
+        "name": "Datadog CRM Basic",
+        "provider": "Datadog",
+        "monthly_cost": 422.72
+    },
+    {
+        "id": 194,
+        "name": "AWS CRM Basic",
+        "provider": "AWS",
+        "monthly_cost": 445.74
+    },
+    {
+        "id": 195,
+        "name": "Slack Enterprise Suite",
+        "provider": "Slack",
+        "monthly_cost": 182.24
+    },
+    {
+        "id": 196,
+        "name": "Slack Creative Pack",
+        "provider": "Slack",
+        "monthly_cost": 178.75
+    },
+    {
+        "id": 197,
+        "name": "Datadog Cloud Hosting",
+        "provider": "Datadog",
+        "monthly_cost": 405.5
+    },
+    {
+        "id": 198,
+        "name": "AWS Project Manager",
+        "provider": "AWS",
+        "monthly_cost": 426.9
+    },
+    {
+        "id": 199,
+        "name": "Salesforce Cloud Hosting",
+        "provider": "Salesforce",
+        "monthly_cost": 367.65
+    },
+    {
+        "id": 200,
+        "name": "Microsoft Enterprise Suite",
+        "provider": "Microsoft",
+        "monthly_cost": 337.55
+    },
+    {
+        "id": 201,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 62.62
+    },
+    {
+        "id": 202,
+        "name": "Google Cloud Project Manager",
+        "provider": "Google Cloud",
+        "monthly_cost": 37.92
+    },
+    {
+        "id": 203,
+        "name": "Adobe Monitoring Tool",
+        "provider": "Adobe",
+        "monthly_cost": 40.7
+    },
+    {
+        "id": 204,
+        "name": "Adobe Enterprise Suite",
+        "provider": "Adobe",
+        "monthly_cost": 363.12
+    },
+    {
+        "id": 205,
+        "name": "Google Cloud Cloud Hosting",
+        "provider": "Google Cloud",
+        "monthly_cost": 22.01
+    },
+    {
+        "id": 206,
+        "name": "Microsoft CRM Basic",
+        "provider": "Microsoft",
+        "monthly_cost": 113.33
+    },
+    {
+        "id": 207,
+        "name": "AWS Creative Pack",
+        "provider": "AWS",
+        "monthly_cost": 323.0
+    },
+    {
+        "id": 208,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 227.4
+    },
+    {
+        "id": 209,
+        "name": "Datadog Analytics Pro",
+        "provider": "Datadog",
+        "monthly_cost": 250.87
+    },
+    {
+        "id": 210,
+        "name": "Slack Cloud Hosting",
+        "provider": "Slack",
+        "monthly_cost": 342.73
+    },
+    {
+        "id": 211,
+        "name": "Datadog Monitoring Tool",
+        "provider": "Datadog",
+        "monthly_cost": 370.98
+    },
+    {
+        "id": 212,
+        "name": "Microsoft Monitoring Tool",
+        "provider": "Microsoft",
+        "monthly_cost": 179.79
+    },
+    {
+        "id": 213,
+        "name": "AWS CRM Basic",
+        "provider": "AWS",
+        "monthly_cost": 256.4
+    },
+    {
+        "id": 214,
+        "name": "Atlassian Monitoring Tool",
+        "provider": "Atlassian",
+        "monthly_cost": 164.32
+    },
+    {
+        "id": 215,
+        "name": "Google Cloud Creative Pack",
+        "provider": "Google Cloud",
+        "monthly_cost": 380.42
+    },
+    {
+        "id": 216,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 138.8
+    },
+    {
+        "id": 217,
+        "name": "Adobe Project Manager",
+        "provider": "Adobe",
+        "monthly_cost": 460.48
+    },
+    {
+        "id": 218,
+        "name": "AWS Creative Pack",
+        "provider": "AWS",
+        "monthly_cost": 342.14
+    },
+    {
+        "id": 219,
+        "name": "Salesforce Project Manager",
+        "provider": "Salesforce",
+        "monthly_cost": 188.66
+    },
+    {
+        "id": 220,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 358.99
+    },
+    {
+        "id": 221,
+        "name": "Slack Monitoring Tool",
+        "provider": "Slack",
+        "monthly_cost": 458.32
+    },
+    {
+        "id": 222,
+        "name": "Google Cloud Team Chat",
+        "provider": "Google Cloud",
+        "monthly_cost": 61.4
+    },
+    {
+        "id": 223,
+        "name": "Atlassian Enterprise Suite",
+        "provider": "Atlassian",
+        "monthly_cost": 378.75
+    },
+    {
+        "id": 224,
+        "name": "Datadog Cloud Hosting",
+        "provider": "Datadog",
+        "monthly_cost": 162.57
+    },
+    {
+        "id": 225,
+        "name": "Microsoft Monitoring Tool",
+        "provider": "Microsoft",
+        "monthly_cost": 253.17
+    },
+    {
+        "id": 226,
+        "name": "Microsoft Enterprise Suite",
+        "provider": "Microsoft",
+        "monthly_cost": 469.27
+    },
+    {
+        "id": 227,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 229.16
+    },
+    {
+        "id": 228,
+        "name": "Microsoft Project Manager",
+        "provider": "Microsoft",
+        "monthly_cost": 44.79
+    },
+    {
+        "id": 229,
+        "name": "AWS Team Chat",
+        "provider": "AWS",
+        "monthly_cost": 201.38
+    },
+    {
+        "id": 230,
+        "name": "Google Cloud Team Chat",
+        "provider": "Google Cloud",
+        "monthly_cost": 398.92
+    },
+    {
+        "id": 231,
+        "name": "AWS Team Chat",
+        "provider": "AWS",
+        "monthly_cost": 282.18
+    },
+    {
+        "id": 232,
+        "name": "Microsoft CRM Basic",
+        "provider": "Microsoft",
+        "monthly_cost": 136.71
+    },
+    {
+        "id": 233,
+        "name": "Salesforce Creative Pack",
+        "provider": "Salesforce",
+        "monthly_cost": 377.8
+    },
+    {
+        "id": 234,
+        "name": "Google Cloud Project Manager",
+        "provider": "Google Cloud",
+        "monthly_cost": 14.41
+    },
+    {
+        "id": 235,
+        "name": "AWS Analytics Pro",
+        "provider": "AWS",
+        "monthly_cost": 230.8
+    },
+    {
+        "id": 236,
+        "name": "Adobe Monitoring Tool",
+        "provider": "Adobe",
+        "monthly_cost": 222.61
+    },
+    {
+        "id": 237,
+        "name": "Salesforce Project Manager",
+        "provider": "Salesforce",
+        "monthly_cost": 263.93
+    },
+    {
+        "id": 238,
+        "name": "AWS Creative Pack",
+        "provider": "AWS",
+        "monthly_cost": 212.67
+    },
+    {
+        "id": 239,
+        "name": "Salesforce Creative Pack",
+        "provider": "Salesforce",
+        "monthly_cost": 141.76
+    },
+    {
+        "id": 240,
+        "name": "AWS Cloud Hosting",
+        "provider": "AWS",
+        "monthly_cost": 113.77
+    },
+    {
+        "id": 241,
+        "name": "Slack Team Chat",
+        "provider": "Slack",
+        "monthly_cost": 215.54
+    },
+    {
+        "id": 242,
+        "name": "AWS Analytics Pro",
+        "provider": "AWS",
+        "monthly_cost": 471.3
+    },
+    {
+        "id": 243,
+        "name": "Datadog CRM Basic",
+        "provider": "Datadog",
+        "monthly_cost": 420.39
+    },
+    {
+        "id": 244,
+        "name": "Microsoft Monitoring Tool",
+        "provider": "Microsoft",
+        "monthly_cost": 25.99
+    },
+    {
+        "id": 245,
+        "name": "Microsoft Monitoring Tool",
+        "provider": "Microsoft",
+        "monthly_cost": 126.27
+    },
+    {
+        "id": 246,
+        "name": "Datadog Team Chat",
+        "provider": "Datadog",
+        "monthly_cost": 439.85
+    },
+    {
+        "id": 247,
+        "name": "Microsoft Cloud Hosting",
+        "provider": "Microsoft",
+        "monthly_cost": 150.88
+    },
+    {
+        "id": 248,
+        "name": "Salesforce Creative Pack",
+        "provider": "Salesforce",
+        "monthly_cost": 233.81
+    },
+    {
+        "id": 249,
+        "name": "Atlassian Team Chat",
+        "provider": "Atlassian",
+        "monthly_cost": 28.37
+    },
+    {
+        "id": 250,
+        "name": "Microsoft Enterprise Suite",
+        "provider": "Microsoft",
+        "monthly_cost": 203.53
+    },
+    {
+        "id": 251,
+        "name": "Google Cloud Analytics Pro",
+        "provider": "Google Cloud",
+        "monthly_cost": 311.31
+    },
+    {
+        "id": 252,
+        "name": "AWS Monitoring Tool",
+        "provider": "AWS",
+        "monthly_cost": 162.0
+    },
+    {
+        "id": 253,
+        "name": "Slack CRM Basic",
+        "provider": "Slack",
+        "monthly_cost": 233.48
+    },
+    {
+        "id": 254,
+        "name": "AWS Cloud Hosting",
+        "provider": "AWS",
+        "monthly_cost": 354.92
+    },
+    {
+        "id": 255,
+        "name": "Datadog Analytics Pro",
+        "provider": "Datadog",
+        "monthly_cost": 491.41
+    },
+    {
+        "id": 256,
+        "name": "Google Cloud Analytics Pro",
+        "provider": "Google Cloud",
+        "monthly_cost": 239.74
+    },
+    {
+        "id": 257,
+        "name": "AWS Analytics Pro",
+        "provider": "AWS",
+        "monthly_cost": 319.3
+    },
+    {
+        "id": 258,
+        "name": "Slack Cloud Hosting",
+        "provider": "Slack",
+        "monthly_cost": 302.77
+    },
+    {
+        "id": 259,
+        "name": "Atlassian Monitoring Tool",
+        "provider": "Atlassian",
+        "monthly_cost": 298.85
+    },
+    {
+        "id": 260,
+        "name": "Datadog Project Manager",
+        "provider": "Datadog",
+        "monthly_cost": 400.21
+    },
+    {
+        "id": 261,
+        "name": "Salesforce Cloud Hosting",
+        "provider": "Salesforce",
+        "monthly_cost": 317.16
+    },
+    {
+        "id": 262,
+        "name": "Atlassian Enterprise Suite",
+        "provider": "Atlassian",
+        "monthly_cost": 189.99
+    },
+    {
+        "id": 263,
+        "name": "Salesforce Cloud Hosting",
+        "provider": "Salesforce",
+        "monthly_cost": 148.48
+    },
+    {
+        "id": 264,
+        "name": "Slack Team Chat",
+        "provider": "Slack",
+        "monthly_cost": 311.45
+    },
+    {
+        "id": 265,
+        "name": "Datadog Enterprise Suite",
+        "provider": "Datadog",
+        "monthly_cost": 399.92
+    },
+    {
+        "id": 266,
+        "name": "Adobe CRM Basic",
+        "provider": "Adobe",
+        "monthly_cost": 331.22
+    },
+    {
+        "id": 267,
+        "name": "Adobe CRM Basic",
+        "provider": "Adobe",
+        "monthly_cost": 270.42
+    },
+    {
+        "id": 268,
+        "name": "Google Cloud Team Chat",
+        "provider": "Google Cloud",
+        "monthly_cost": 458.2
+    },
+    {
+        "id": 269,
+        "name": "Salesforce Monitoring Tool",
+        "provider": "Salesforce",
+        "monthly_cost": 319.7
+    },
+    {
+        "id": 270,
+        "name": "Datadog Creative Pack",
+        "provider": "Datadog",
+        "monthly_cost": 144.73
+    },
+    {
+        "id": 271,
+        "name": "Slack Project Manager",
+        "provider": "Slack",
+        "monthly_cost": 296.25
+    },
+    {
+        "id": 272,
+        "name": "Datadog CRM Basic",
+        "provider": "Datadog",
+        "monthly_cost": 357.71
+    },
+    {
+        "id": 273,
+        "name": "AWS Enterprise Suite",
+        "provider": "AWS",
+        "monthly_cost": 192.55
+    },
+    {
+        "id": 274,
+        "name": "Datadog Enterprise Suite",
+        "provider": "Datadog",
+        "monthly_cost": 449.45
+    },
+    {
+        "id": 275,
+        "name": "Slack Monitoring Tool",
+        "provider": "Slack",
+        "monthly_cost": 21.52
+    },
+    {
+        "id": 276,
+        "name": "Adobe Analytics Pro",
+        "provider": "Adobe",
+        "monthly_cost": 196.78
+    },
+    {
+        "id": 277,
+        "name": "Salesforce Analytics Pro",
+        "provider": "Salesforce",
+        "monthly_cost": 315.93
+    },
+    {
+        "id": 278,
+        "name": "Microsoft Monitoring Tool",
+        "provider": "Microsoft",
+        "monthly_cost": 484.8
+    },
+    {
+        "id": 279,
+        "name": "Google Cloud Creative Pack",
+        "provider": "Google Cloud",
+        "monthly_cost": 259.82
+    },
+    {
+        "id": 280,
+        "name": "Datadog Monitoring Tool",
+        "provider": "Datadog",
+        "monthly_cost": 215.87
+    },
+    {
+        "id": 281,
+        "name": "Datadog Team Chat",
+        "provider": "Datadog",
+        "monthly_cost": 107.15
+    },
+    {
+        "id": 282,
+        "name": "Microsoft Analytics Pro",
+        "provider": "Microsoft",
+        "monthly_cost": 412.28
+    },
+    {
+        "id": 283,
+        "name": "Adobe Creative Pack",
+        "provider": "Adobe",
+        "monthly_cost": 32.98
+    },
+    {
+        "id": 284,
+        "name": "Atlassian Cloud Hosting",
+        "provider": "Atlassian",
+        "monthly_cost": 415.88
+    },
+    {
+        "id": 285,
+        "name": "Microsoft Team Chat",
+        "provider": "Microsoft",
+        "monthly_cost": 237.25
+    },
+    {
+        "id": 286,
+        "name": "Slack Cloud Hosting",
+        "provider": "Slack",
+        "monthly_cost": 321.72
+    },
+    {
+        "id": 287,
+        "name": "Datadog Analytics Pro",
+        "provider": "Datadog",
+        "monthly_cost": 283.81
+    },
+    {
+        "id": 288,
+        "name": "Microsoft Team Chat",
+        "provider": "Microsoft",
+        "monthly_cost": 127.5
+    },
+    {
+        "id": 289,
+        "name": "Slack Creative Pack",
+        "provider": "Slack",
+        "monthly_cost": 472.14
+    },
+    {
+        "id": 290,
+        "name": "AWS Monitoring Tool",
+        "provider": "AWS",
+        "monthly_cost": 414.9
+    },
+    {
+        "id": 291,
+        "name": "Datadog Enterprise Suite",
+        "provider": "Datadog",
+        "monthly_cost": 427.63
+    },
+    {
+        "id": 292,
+        "name": "Adobe Monitoring Tool",
+        "provider": "Adobe",
+        "monthly_cost": 14.45
+    },
+    {
+        "id": 293,
+        "name": "Microsoft Analytics Pro",
+        "provider": "Microsoft",
+        "monthly_cost": 289.05
+    },
+    {
+        "id": 294,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 474.93
+    },
+    {
+        "id": 295,
+        "name": "Google Cloud Enterprise Suite",
+        "provider": "Google Cloud",
+        "monthly_cost": 382.13
+    },
+    {
+        "id": 296,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 158.17
+    },
+    {
+        "id": 297,
+        "name": "Slack Cloud Hosting",
+        "provider": "Slack",
+        "monthly_cost": 88.62
+    },
+    {
+        "id": 298,
+        "name": "Datadog Creative Pack",
+        "provider": "Datadog",
+        "monthly_cost": 424.3
+    },
+    {
+        "id": 299,
+        "name": "Adobe Enterprise Suite",
+        "provider": "Adobe",
+        "monthly_cost": 144.2
+    },
+    {
+        "id": 300,
+        "name": "Salesforce Cloud Hosting",
+        "provider": "Salesforce",
+        "monthly_cost": 469.54
+    },
+    {
+        "id": 301,
+        "name": "Atlassian Creative Pack",
+        "provider": "Atlassian",
+        "monthly_cost": 102.46
+    },
+    {
+        "id": 302,
+        "name": "Adobe Enterprise Suite",
+        "provider": "Adobe",
+        "monthly_cost": 87.89
+    },
+    {
+        "id": 303,
+        "name": "Datadog Enterprise Suite",
+        "provider": "Datadog",
+        "monthly_cost": 96.31
+    },
+    {
+        "id": 304,
+        "name": "Salesforce Creative Pack",
+        "provider": "Salesforce",
+        "monthly_cost": 84.08
+    },
+    {
+        "id": 305,
+        "name": "Adobe Team Chat",
+        "provider": "Adobe",
+        "monthly_cost": 446.51
+    },
+    {
+        "id": 306,
+        "name": "Google Cloud Enterprise Suite",
+        "provider": "Google Cloud",
+        "monthly_cost": 484.18
+    },
+    {
+        "id": 307,
+        "name": "AWS Cloud Hosting",
+        "provider": "AWS",
+        "monthly_cost": 247.4
+    },
+    {
+        "id": 308,
+        "name": "Datadog Monitoring Tool",
+        "provider": "Datadog",
+        "monthly_cost": 246.66
+    },
+    {
+        "id": 309,
+        "name": "Microsoft Cloud Hosting",
+        "provider": "Microsoft",
+        "monthly_cost": 63.2
+    },
+    {
+        "id": 310,
+        "name": "Microsoft Analytics Pro",
+        "provider": "Microsoft",
+        "monthly_cost": 481.8
+    },
+    {
+        "id": 311,
+        "name": "Microsoft Project Manager",
+        "provider": "Microsoft",
+        "monthly_cost": 374.39
+    },
+    {
+        "id": 312,
+        "name": "Salesforce Analytics Pro",
+        "provider": "Salesforce",
+        "monthly_cost": 453.3
+    },
+    {
+        "id": 313,
+        "name": "Adobe Monitoring Tool",
+        "provider": "Adobe",
+        "monthly_cost": 260.95
+    },
+    {
+        "id": 314,
+        "name": "Salesforce Team Chat",
+        "provider": "Salesforce",
+        "monthly_cost": 168.42
+    },
+    {
+        "id": 315,
+        "name": "Datadog Cloud Hosting",
+        "provider": "Datadog",
+        "monthly_cost": 321.19
+    },
+    {
+        "id": 316,
+        "name": "Atlassian Creative Pack",
+        "provider": "Atlassian",
+        "monthly_cost": 459.02
+    },
+    {
+        "id": 317,
+        "name": "Slack Cloud Hosting",
+        "provider": "Slack",
+        "monthly_cost": 198.63
+    },
+    {
+        "id": 318,
+        "name": "Atlassian Creative Pack",
+        "provider": "Atlassian",
+        "monthly_cost": 154.29
+    },
+    {
+        "id": 319,
+        "name": "AWS Project Manager",
+        "provider": "AWS",
+        "monthly_cost": 407.57
+    },
+    {
+        "id": 320,
+        "name": "AWS Enterprise Suite",
+        "provider": "AWS",
+        "monthly_cost": 51.84
+    },
+    {
+        "id": 321,
+        "name": "Atlassian Enterprise Suite",
+        "provider": "Atlassian",
+        "monthly_cost": 337.54
+    },
+    {
+        "id": 322,
+        "name": "Google Cloud CRM Basic",
+        "provider": "Google Cloud",
+        "monthly_cost": 369.13
+    },
+    {
+        "id": 323,
+        "name": "Microsoft Monitoring Tool",
+        "provider": "Microsoft",
+        "monthly_cost": 359.7
+    },
+    {
+        "id": 324,
+        "name": "Microsoft Analytics Pro",
+        "provider": "Microsoft",
+        "monthly_cost": 310.22
+    },
+    {
+        "id": 325,
+        "name": "Atlassian Creative Pack",
+        "provider": "Atlassian",
+        "monthly_cost": 274.75
+    },
+    {
+        "id": 326,
+        "name": "Atlassian Monitoring Tool",
+        "provider": "Atlassian",
+        "monthly_cost": 165.66
+    },
+    {
+        "id": 327,
+        "name": "Google Cloud CRM Basic",
+        "provider": "Google Cloud",
+        "monthly_cost": 414.66
+    },
+    {
+        "id": 328,
+        "name": "Datadog Creative Pack",
+        "provider": "Datadog",
+        "monthly_cost": 176.74
+    },
+    {
+        "id": 329,
+        "name": "Adobe Analytics Pro",
+        "provider": "Adobe",
+        "monthly_cost": 237.8
+    },
+    {
+        "id": 330,
+        "name": "Atlassian Project Manager",
+        "provider": "Atlassian",
+        "monthly_cost": 349.72
+    },
+    {
+        "id": 331,
+        "name": "Atlassian Monitoring Tool",
+        "provider": "Atlassian",
+        "monthly_cost": 130.85
+    },
+    {
+        "id": 332,
+        "name": "Salesforce Monitoring Tool",
+        "provider": "Salesforce",
+        "monthly_cost": 343.66
+    },
+    {
+        "id": 333,
+        "name": "Adobe Enterprise Suite",
+        "provider": "Adobe",
+        "monthly_cost": 320.28
+    },
+    {
+        "id": 334,
+        "name": "Microsoft Cloud Hosting",
+        "provider": "Microsoft",
+        "monthly_cost": 134.25
+    },
+    {
+        "id": 335,
+        "name": "Slack Monitoring Tool",
+        "provider": "Slack",
+        "monthly_cost": 112.59
+    },
+    {
+        "id": 336,
+        "name": "Datadog Team Chat",
+        "provider": "Datadog",
+        "monthly_cost": 426.81
+    },
+    {
+        "id": 337,
+        "name": "Salesforce Project Manager",
+        "provider": "Salesforce",
+        "monthly_cost": 305.6
+    },
+    {
+        "id": 338,
+        "name": "Slack Team Chat",
+        "provider": "Slack",
+        "monthly_cost": 267.35
+    },
+    {
+        "id": 339,
+        "name": "AWS Team Chat",
+        "provider": "AWS",
+        "monthly_cost": 120.89
+    },
+    {
+        "id": 340,
+        "name": "Atlassian Team Chat",
+        "provider": "Atlassian",
+        "monthly_cost": 309.05
+    },
+    {
+        "id": 341,
+        "name": "Salesforce Team Chat",
+        "provider": "Salesforce",
+        "monthly_cost": 342.09
+    },
+    {
+        "id": 342,
+        "name": "AWS Cloud Hosting",
+        "provider": "AWS",
+        "monthly_cost": 153.45
+    },
+    {
+        "id": 343,
+        "name": "Atlassian Cloud Hosting",
+        "provider": "Atlassian",
+        "monthly_cost": 93.36
+    },
+    {
+        "id": 344,
+        "name": "Adobe Analytics Pro",
+        "provider": "Adobe",
+        "monthly_cost": 209.04
+    },
+    {
+        "id": 345,
+        "name": "Microsoft Analytics Pro",
+        "provider": "Microsoft",
+        "monthly_cost": 199.55
+    },
+    {
+        "id": 346,
+        "name": "Microsoft Project Manager",
+        "provider": "Microsoft",
+        "monthly_cost": 252.45
+    },
+    {
+        "id": 347,
+        "name": "Adobe Cloud Hosting",
+        "provider": "Adobe",
+        "monthly_cost": 174.98
+    },
+    {
+        "id": 348,
+        "name": "Adobe Analytics Pro",
+        "provider": "Adobe",
+        "monthly_cost": 400.71
+    },
+    {
+        "id": 349,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 275.93
+    },
+    {
+        "id": 350,
+        "name": "Slack Monitoring Tool",
+        "provider": "Slack",
+        "monthly_cost": 271.38
+    },
+    {
+        "id": 351,
+        "name": "Datadog CRM Basic",
+        "provider": "Datadog",
+        "monthly_cost": 123.5
+    },
+    {
+        "id": 352,
+        "name": "Datadog Monitoring Tool",
+        "provider": "Datadog",
+        "monthly_cost": 432.3
+    },
+    {
+        "id": 353,
+        "name": "Adobe CRM Basic",
+        "provider": "Adobe",
+        "monthly_cost": 176.83
+    },
+    {
+        "id": 354,
+        "name": "Microsoft Cloud Hosting",
+        "provider": "Microsoft",
+        "monthly_cost": 471.84
+    },
+    {
+        "id": 355,
+        "name": "Google Cloud CRM Basic",
+        "provider": "Google Cloud",
+        "monthly_cost": 239.45
+    },
+    {
+        "id": 356,
+        "name": "Salesforce Enterprise Suite",
+        "provider": "Salesforce",
+        "monthly_cost": 427.88
+    },
+    {
+        "id": 357,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 16.95
+    },
+    {
+        "id": 358,
+        "name": "Datadog Team Chat",
+        "provider": "Datadog",
+        "monthly_cost": 333.37
+    },
+    {
+        "id": 359,
+        "name": "AWS Analytics Pro",
+        "provider": "AWS",
+        "monthly_cost": 95.97
+    },
+    {
+        "id": 360,
+        "name": "Atlassian Creative Pack",
+        "provider": "Atlassian",
+        "monthly_cost": 300.95
+    },
+    {
+        "id": 361,
+        "name": "AWS Project Manager",
+        "provider": "AWS",
+        "monthly_cost": 219.54
+    },
+    {
+        "id": 362,
+        "name": "Microsoft Cloud Hosting",
+        "provider": "Microsoft",
+        "monthly_cost": 197.22
+    },
+    {
+        "id": 363,
+        "name": "Salesforce Analytics Pro",
+        "provider": "Salesforce",
+        "monthly_cost": 148.08
+    },
+    {
+        "id": 364,
+        "name": "Slack CRM Basic",
+        "provider": "Slack",
+        "monthly_cost": 106.05
+    },
+    {
+        "id": 365,
+        "name": "Atlassian CRM Basic",
+        "provider": "Atlassian",
+        "monthly_cost": 67.88
+    },
+    {
+        "id": 366,
+        "name": "Salesforce Enterprise Suite",
+        "provider": "Salesforce",
+        "monthly_cost": 394.2
+    },
+    {
+        "id": 367,
+        "name": "Datadog Analytics Pro",
+        "provider": "Datadog",
+        "monthly_cost": 300.22
+    },
+    {
+        "id": 368,
+        "name": "Salesforce Monitoring Tool",
+        "provider": "Salesforce",
+        "monthly_cost": 13.18
+    },
+    {
+        "id": 369,
+        "name": "Google Cloud Project Manager",
+        "provider": "Google Cloud",
+        "monthly_cost": 266.49
+    },
+    {
+        "id": 370,
+        "name": "Google Cloud Cloud Hosting",
+        "provider": "Google Cloud",
+        "monthly_cost": 497.57
+    },
+    {
+        "id": 371,
+        "name": "Adobe Monitoring Tool",
+        "provider": "Adobe",
+        "monthly_cost": 36.18
+    },
+    {
+        "id": 372,
+        "name": "Salesforce Cloud Hosting",
+        "provider": "Salesforce",
+        "monthly_cost": 267.14
+    },
+    {
+        "id": 373,
+        "name": "Atlassian Project Manager",
+        "provider": "Atlassian",
+        "monthly_cost": 107.82
+    },
+    {
+        "id": 374,
+        "name": "Google Cloud Creative Pack",
+        "provider": "Google Cloud",
+        "monthly_cost": 375.18
+    },
+    {
+        "id": 375,
+        "name": "Adobe Team Chat",
+        "provider": "Adobe",
+        "monthly_cost": 100.55
+    },
+    {
+        "id": 376,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 273.22
+    },
+    {
+        "id": 377,
+        "name": "Adobe Enterprise Suite",
+        "provider": "Adobe",
+        "monthly_cost": 97.3
+    },
+    {
+        "id": 378,
+        "name": "AWS Enterprise Suite",
+        "provider": "AWS",
+        "monthly_cost": 220.77
+    },
+    {
+        "id": 379,
+        "name": "Datadog Monitoring Tool",
+        "provider": "Datadog",
+        "monthly_cost": 217.7
+    },
+    {
+        "id": 380,
+        "name": "Datadog Cloud Hosting",
+        "provider": "Datadog",
+        "monthly_cost": 24.66
+    },
+    {
+        "id": 381,
+        "name": "Microsoft Cloud Hosting",
+        "provider": "Microsoft",
+        "monthly_cost": 47.86
+    },
+    {
+        "id": 382,
+        "name": "Atlassian Enterprise Suite",
+        "provider": "Atlassian",
+        "monthly_cost": 272.38
+    },
+    {
+        "id": 383,
+        "name": "AWS Team Chat",
+        "provider": "AWS",
+        "monthly_cost": 92.72
+    },
+    {
+        "id": 384,
+        "name": "Salesforce Team Chat",
+        "provider": "Salesforce",
+        "monthly_cost": 210.77
+    },
+    {
+        "id": 385,
+        "name": "Atlassian Cloud Hosting",
+        "provider": "Atlassian",
+        "monthly_cost": 119.42
+    },
+    {
+        "id": 386,
+        "name": "AWS Analytics Pro",
+        "provider": "AWS",
+        "monthly_cost": 168.89
+    },
+    {
+        "id": 387,
+        "name": "AWS Project Manager",
+        "provider": "AWS",
+        "monthly_cost": 158.11
+    },
+    {
+        "id": 388,
+        "name": "Atlassian Team Chat",
+        "provider": "Atlassian",
+        "monthly_cost": 442.95
+    },
+    {
+        "id": 389,
+        "name": "Atlassian Enterprise Suite",
+        "provider": "Atlassian",
+        "monthly_cost": 220.64
+    },
+    {
+        "id": 390,
+        "name": "Datadog Cloud Hosting",
+        "provider": "Datadog",
+        "monthly_cost": 484.81
+    },
+    {
+        "id": 391,
+        "name": "Google Cloud Monitoring Tool",
+        "provider": "Google Cloud",
+        "monthly_cost": 368.14
+    },
+    {
+        "id": 392,
+        "name": "Datadog Project Manager",
+        "provider": "Datadog",
+        "monthly_cost": 206.28
+    },
+    {
+        "id": 393,
+        "name": "AWS Analytics Pro",
+        "provider": "AWS",
+        "monthly_cost": 383.31
+    },
+    {
+        "id": 394,
+        "name": "Salesforce Analytics Pro",
+        "provider": "Salesforce",
+        "monthly_cost": 242.28
+    },
+    {
+        "id": 395,
+        "name": "Google Cloud Project Manager",
+        "provider": "Google Cloud",
+        "monthly_cost": 213.52
+    },
+    {
+        "id": 396,
+        "name": "Microsoft Project Manager",
+        "provider": "Microsoft",
+        "monthly_cost": 109.12
+    },
+    {
+        "id": 397,
+        "name": "Datadog Cloud Hosting",
+        "provider": "Datadog",
+        "monthly_cost": 146.31
+    },
+    {
+        "id": 398,
+        "name": "Datadog Team Chat",
+        "provider": "Datadog",
+        "monthly_cost": 442.15
+    },
+    {
+        "id": 399,
+        "name": "Salesforce Project Manager",
+        "provider": "Salesforce",
+        "monthly_cost": 378.59
+    },
+    {
+        "id": 400,
+        "name": "Slack Project Manager",
+        "provider": "Slack",
+        "monthly_cost": 231.29
+    },
+    {
+        "id": 401,
+        "name": "Microsoft Cloud Hosting",
+        "provider": "Microsoft",
+        "monthly_cost": 337.76
+    },
+    {
+        "id": 402,
+        "name": "Datadog Team Chat",
+        "provider": "Datadog",
+        "monthly_cost": 193.41
+    },
+    {
+        "id": 403,
+        "name": "Google Cloud Analytics Pro",
+        "provider": "Google Cloud",
+        "monthly_cost": 240.0
+    },
+    {
+        "id": 404,
+        "name": "Salesforce Monitoring Tool",
+        "provider": "Salesforce",
+        "monthly_cost": 439.71
+    },
+    {
+        "id": 405,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 188.09
+    },
+    {
+        "id": 406,
+        "name": "Atlassian Cloud Hosting",
+        "provider": "Atlassian",
+        "monthly_cost": 465.15
+    },
+    {
+        "id": 407,
+        "name": "Salesforce Creative Pack",
+        "provider": "Salesforce",
+        "monthly_cost": 444.51
+    },
+    {
+        "id": 408,
+        "name": "Salesforce Enterprise Suite",
+        "provider": "Salesforce",
+        "monthly_cost": 29.33
+    },
+    {
+        "id": 409,
+        "name": "AWS Project Manager",
+        "provider": "AWS",
+        "monthly_cost": 12.4
+    },
+    {
+        "id": 410,
+        "name": "AWS CRM Basic",
+        "provider": "AWS",
+        "monthly_cost": 401.71
+    },
+    {
+        "id": 411,
+        "name": "Atlassian Project Manager",
+        "provider": "Atlassian",
+        "monthly_cost": 254.02
+    },
+    {
+        "id": 412,
+        "name": "Adobe Project Manager",
+        "provider": "Adobe",
+        "monthly_cost": 289.66
+    },
+    {
+        "id": 413,
+        "name": "Atlassian Monitoring Tool",
+        "provider": "Atlassian",
+        "monthly_cost": 406.68
+    },
+    {
+        "id": 414,
+        "name": "Atlassian Team Chat",
+        "provider": "Atlassian",
+        "monthly_cost": 468.79
+    },
+    {
+        "id": 415,
+        "name": "Atlassian Creative Pack",
+        "provider": "Atlassian",
+        "monthly_cost": 194.74
+    },
+    {
+        "id": 416,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 443.05
+    },
+    {
+        "id": 417,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 361.5
+    },
+    {
+        "id": 418,
+        "name": "Adobe Monitoring Tool",
+        "provider": "Adobe",
+        "monthly_cost": 393.84
+    },
+    {
+        "id": 419,
+        "name": "Datadog Analytics Pro",
+        "provider": "Datadog",
+        "monthly_cost": 364.76
+    },
+    {
+        "id": 420,
+        "name": "Datadog Cloud Hosting",
+        "provider": "Datadog",
+        "monthly_cost": 10.24
+    },
+    {
+        "id": 421,
+        "name": "Microsoft Monitoring Tool",
+        "provider": "Microsoft",
+        "monthly_cost": 284.46
+    },
+    {
+        "id": 422,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 223.12
+    },
+    {
+        "id": 423,
+        "name": "Atlassian Monitoring Tool",
+        "provider": "Atlassian",
+        "monthly_cost": 231.33
+    },
+    {
+        "id": 424,
+        "name": "AWS Enterprise Suite",
+        "provider": "AWS",
+        "monthly_cost": 355.01
+    },
+    {
+        "id": 425,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 475.05
+    },
+    {
+        "id": 426,
+        "name": "Atlassian CRM Basic",
+        "provider": "Atlassian",
+        "monthly_cost": 249.89
+    },
+    {
+        "id": 427,
+        "name": "Slack Team Chat",
+        "provider": "Slack",
+        "monthly_cost": 231.89
+    },
+    {
+        "id": 428,
+        "name": "Adobe Project Manager",
+        "provider": "Adobe",
+        "monthly_cost": 496.56
+    },
+    {
+        "id": 429,
+        "name": "Salesforce Creative Pack",
+        "provider": "Salesforce",
+        "monthly_cost": 164.4
+    },
+    {
+        "id": 430,
+        "name": "Microsoft Enterprise Suite",
+        "provider": "Microsoft",
+        "monthly_cost": 67.29
+    },
+    {
+        "id": 431,
+        "name": "Google Cloud Project Manager",
+        "provider": "Google Cloud",
+        "monthly_cost": 310.06
+    },
+    {
+        "id": 432,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 297.53
+    },
+    {
+        "id": 433,
+        "name": "Adobe Analytics Pro",
+        "provider": "Adobe",
+        "monthly_cost": 183.57
+    },
+    {
+        "id": 434,
+        "name": "Slack Project Manager",
+        "provider": "Slack",
+        "monthly_cost": 332.92
+    },
+    {
+        "id": 435,
+        "name": "Microsoft Enterprise Suite",
+        "provider": "Microsoft",
+        "monthly_cost": 465.26
+    },
+    {
+        "id": 436,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 420.03
+    },
+    {
+        "id": 437,
+        "name": "Adobe Team Chat",
+        "provider": "Adobe",
+        "monthly_cost": 382.33
+    },
+    {
+        "id": 438,
+        "name": "AWS Cloud Hosting",
+        "provider": "AWS",
+        "monthly_cost": 120.65
+    },
+    {
+        "id": 439,
+        "name": "Atlassian CRM Basic",
+        "provider": "Atlassian",
+        "monthly_cost": 370.61
+    },
+    {
+        "id": 440,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 131.06
+    },
+    {
+        "id": 441,
+        "name": "Google Cloud Monitoring Tool",
+        "provider": "Google Cloud",
+        "monthly_cost": 12.34
+    },
+    {
+        "id": 442,
+        "name": "Adobe Monitoring Tool",
+        "provider": "Adobe",
+        "monthly_cost": 381.98
+    },
+    {
+        "id": 443,
+        "name": "AWS Team Chat",
+        "provider": "AWS",
+        "monthly_cost": 222.89
+    },
+    {
+        "id": 444,
+        "name": "Slack Project Manager",
+        "provider": "Slack",
+        "monthly_cost": 486.51
+    },
+    {
+        "id": 445,
+        "name": "Google Cloud Analytics Pro",
+        "provider": "Google Cloud",
+        "monthly_cost": 60.02
+    },
+    {
+        "id": 446,
+        "name": "AWS Enterprise Suite",
+        "provider": "AWS",
+        "monthly_cost": 146.97
+    },
+    {
+        "id": 447,
+        "name": "Microsoft CRM Basic",
+        "provider": "Microsoft",
+        "monthly_cost": 21.15
+    },
+    {
+        "id": 448,
+        "name": "Salesforce Team Chat",
+        "provider": "Salesforce",
+        "monthly_cost": 388.52
+    },
+    {
+        "id": 449,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 396.84
+    },
+    {
+        "id": 450,
+        "name": "Atlassian Cloud Hosting",
+        "provider": "Atlassian",
+        "monthly_cost": 212.14
+    },
+    {
+        "id": 451,
+        "name": "Slack Project Manager",
+        "provider": "Slack",
+        "monthly_cost": 98.93
+    },
+    {
+        "id": 452,
+        "name": "Datadog Enterprise Suite",
+        "provider": "Datadog",
+        "monthly_cost": 277.0
+    },
+    {
+        "id": 453,
+        "name": "Google Cloud CRM Basic",
+        "provider": "Google Cloud",
+        "monthly_cost": 114.39
+    },
+    {
+        "id": 454,
+        "name": "Adobe CRM Basic",
+        "provider": "Adobe",
+        "monthly_cost": 247.21
+    },
+    {
+        "id": 455,
+        "name": "Slack Monitoring Tool",
+        "provider": "Slack",
+        "monthly_cost": 49.76
+    },
+    {
+        "id": 456,
+        "name": "Slack CRM Basic",
+        "provider": "Slack",
+        "monthly_cost": 260.43
+    },
+    {
+        "id": 457,
+        "name": "AWS Enterprise Suite",
+        "provider": "AWS",
+        "monthly_cost": 80.05
+    },
+    {
+        "id": 458,
+        "name": "AWS Monitoring Tool",
+        "provider": "AWS",
+        "monthly_cost": 216.32
+    },
+    {
+        "id": 459,
+        "name": "Adobe Monitoring Tool",
+        "provider": "Adobe",
+        "monthly_cost": 51.02
+    },
+    {
+        "id": 460,
+        "name": "AWS Team Chat",
+        "provider": "AWS",
+        "monthly_cost": 470.51
+    },
+    {
+        "id": 461,
+        "name": "Google Cloud Team Chat",
+        "provider": "Google Cloud",
+        "monthly_cost": 216.69
+    },
+    {
+        "id": 462,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 101.99
+    },
+    {
+        "id": 463,
+        "name": "Datadog Team Chat",
+        "provider": "Datadog",
+        "monthly_cost": 272.0
+    },
+    {
+        "id": 464,
+        "name": "Microsoft Enterprise Suite",
+        "provider": "Microsoft",
+        "monthly_cost": 322.12
+    },
+    {
+        "id": 465,
+        "name": "Salesforce Team Chat",
+        "provider": "Salesforce",
+        "monthly_cost": 353.25
+    },
+    {
+        "id": 466,
+        "name": "Salesforce Team Chat",
+        "provider": "Salesforce",
+        "monthly_cost": 271.19
+    },
+    {
+        "id": 467,
+        "name": "Atlassian Monitoring Tool",
+        "provider": "Atlassian",
+        "monthly_cost": 362.09
+    },
+    {
+        "id": 468,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 417.75
+    },
+    {
+        "id": 469,
+        "name": "Adobe Project Manager",
+        "provider": "Adobe",
+        "monthly_cost": 66.24
+    },
+    {
+        "id": 470,
+        "name": "Atlassian CRM Basic",
+        "provider": "Atlassian",
+        "monthly_cost": 457.55
+    },
+    {
+        "id": 471,
+        "name": "Salesforce Enterprise Suite",
+        "provider": "Salesforce",
+        "monthly_cost": 384.74
+    },
+    {
+        "id": 472,
+        "name": "Datadog Analytics Pro",
+        "provider": "Datadog",
+        "monthly_cost": 46.56
+    },
+    {
+        "id": 473,
+        "name": "Slack Creative Pack",
+        "provider": "Slack",
+        "monthly_cost": 349.36
+    },
+    {
+        "id": 474,
+        "name": "AWS Enterprise Suite",
+        "provider": "AWS",
+        "monthly_cost": 490.1
+    },
+    {
+        "id": 475,
+        "name": "Google Cloud Creative Pack",
+        "provider": "Google Cloud",
+        "monthly_cost": 16.37
+    },
+    {
+        "id": 476,
+        "name": "Salesforce Monitoring Tool",
+        "provider": "Salesforce",
+        "monthly_cost": 108.55
+    },
+    {
+        "id": 477,
+        "name": "Atlassian Analytics Pro",
+        "provider": "Atlassian",
+        "monthly_cost": 12.97
+    },
+    {
+        "id": 478,
+        "name": "Google Cloud Monitoring Tool",
+        "provider": "Google Cloud",
+        "monthly_cost": 238.13
+    },
+    {
+        "id": 479,
+        "name": "Microsoft Project Manager",
+        "provider": "Microsoft",
+        "monthly_cost": 352.95
+    },
+    {
+        "id": 480,
+        "name": "Slack Creative Pack",
+        "provider": "Slack",
+        "monthly_cost": 320.24
+    },
+    {
+        "id": 481,
+        "name": "Google Cloud Enterprise Suite",
+        "provider": "Google Cloud",
+        "monthly_cost": 381.12
+    },
+    {
+        "id": 482,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 402.96
+    },
+    {
+        "id": 483,
+        "name": "AWS Analytics Pro",
+        "provider": "AWS",
+        "monthly_cost": 182.71
+    },
+    {
+        "id": 484,
+        "name": "Microsoft Project Manager",
+        "provider": "Microsoft",
+        "monthly_cost": 171.63
+    },
+    {
+        "id": 485,
+        "name": "AWS CRM Basic",
+        "provider": "AWS",
+        "monthly_cost": 77.3
+    },
+    {
+        "id": 486,
+        "name": "Google Cloud Monitoring Tool",
+        "provider": "Google Cloud",
+        "monthly_cost": 388.72
+    },
+    {
+        "id": 487,
+        "name": "Slack CRM Basic",
+        "provider": "Slack",
+        "monthly_cost": 160.78
+    },
+    {
+        "id": 488,
+        "name": "AWS CRM Basic",
+        "provider": "AWS",
+        "monthly_cost": 117.23
+    },
+    {
+        "id": 489,
+        "name": "AWS Cloud Hosting",
+        "provider": "AWS",
+        "monthly_cost": 42.56
+    },
+    {
+        "id": 490,
+        "name": "Slack Project Manager",
+        "provider": "Slack",
+        "monthly_cost": 82.2
+    },
+    {
+        "id": 491,
+        "name": "Datadog Creative Pack",
+        "provider": "Datadog",
+        "monthly_cost": 28.97
+    },
+    {
+        "id": 492,
+        "name": "Slack Monitoring Tool",
+        "provider": "Slack",
+        "monthly_cost": 447.74
+    },
+    {
+        "id": 493,
+        "name": "Slack Monitoring Tool",
+        "provider": "Slack",
+        "monthly_cost": 326.55
+    },
+    {
+        "id": 494,
+        "name": "Microsoft Monitoring Tool",
+        "provider": "Microsoft",
+        "monthly_cost": 68.38
+    },
+    {
+        "id": 495,
+        "name": "AWS Analytics Pro",
+        "provider": "AWS",
+        "monthly_cost": 80.09
+    },
+    {
+        "id": 496,
+        "name": "Adobe Cloud Hosting",
+        "provider": "Adobe",
+        "monthly_cost": 488.8
+    },
+    {
+        "id": 497,
+        "name": "Google Cloud Monitoring Tool",
+        "provider": "Google Cloud",
+        "monthly_cost": 445.31
+    },
+    {
+        "id": 498,
+        "name": "Atlassian Creative Pack",
+        "provider": "Atlassian",
+        "monthly_cost": 288.97
+    },
+    {
+        "id": 499,
+        "name": "Adobe Project Manager",
+        "provider": "Adobe",
+        "monthly_cost": 46.37
+    },
+    {
+        "id": 500,
+        "name": "Microsoft CRM Basic",
+        "provider": "Microsoft",
+        "monthly_cost": 286.65
+    },
+    {
+        "id": 501,
+        "name": "Slack Project Manager",
+        "provider": "Slack",
+        "monthly_cost": 79.32
+    },
+    {
+        "id": 502,
+        "name": "Google Cloud Team Chat",
+        "provider": "Google Cloud",
+        "monthly_cost": 32.18
+    },
+    {
+        "id": 503,
+        "name": "Salesforce Enterprise Suite",
+        "provider": "Salesforce",
+        "monthly_cost": 446.3
+    },
+    {
+        "id": 504,
+        "name": "Google Cloud Creative Pack",
+        "provider": "Google Cloud",
+        "monthly_cost": 187.84
+    },
+    {
+        "id": 505,
+        "name": "Microsoft Team Chat",
+        "provider": "Microsoft",
+        "monthly_cost": 106.68
+    },
+    {
+        "id": 506,
+        "name": "Salesforce Enterprise Suite",
+        "provider": "Salesforce",
+        "monthly_cost": 372.64
+    },
+    {
+        "id": 507,
+        "name": "Salesforce Creative Pack",
+        "provider": "Salesforce",
+        "monthly_cost": 179.13
+    },
+    {
+        "id": 508,
+        "name": "Slack Enterprise Suite",
+        "provider": "Slack",
+        "monthly_cost": 307.53
+    },
+    {
+        "id": 509,
+        "name": "AWS Creative Pack",
+        "provider": "AWS",
+        "monthly_cost": 437.47
+    },
+    {
+        "id": 510,
+        "name": "Atlassian Team Chat",
+        "provider": "Atlassian",
+        "monthly_cost": 285.32
+    },
+    {
+        "id": 511,
+        "name": "AWS Enterprise Suite",
+        "provider": "AWS",
+        "monthly_cost": 490.68
+    },
+    {
+        "id": 512,
+        "name": "Datadog Creative Pack",
+        "provider": "Datadog",
+        "monthly_cost": 463.71
+    },
+    {
+        "id": 513,
+        "name": "Adobe Cloud Hosting",
+        "provider": "Adobe",
+        "monthly_cost": 260.17
+    },
+    {
+        "id": 514,
+        "name": "Salesforce Analytics Pro",
+        "provider": "Salesforce",
+        "monthly_cost": 100.23
+    },
+    {
+        "id": 515,
+        "name": "Salesforce Project Manager",
+        "provider": "Salesforce",
+        "monthly_cost": 182.42
+    },
+    {
+        "id": 516,
+        "name": "Slack Creative Pack",
+        "provider": "Slack",
+        "monthly_cost": 172.19
+    },
+    {
+        "id": 517,
+        "name": "AWS CRM Basic",
+        "provider": "AWS",
+        "monthly_cost": 474.8
+    },
+    {
+        "id": 518,
+        "name": "Adobe Analytics Pro",
+        "provider": "Adobe",
+        "monthly_cost": 224.94
+    },
+    {
+        "id": 519,
+        "name": "Microsoft Enterprise Suite",
+        "provider": "Microsoft",
+        "monthly_cost": 158.32
+    },
+    {
+        "id": 520,
+        "name": "Microsoft Monitoring Tool",
+        "provider": "Microsoft",
+        "monthly_cost": 21.17
+    },
+    {
+        "id": 521,
+        "name": "Adobe Enterprise Suite",
+        "provider": "Adobe",
+        "monthly_cost": 50.54
+    },
+    {
+        "id": 522,
+        "name": "Atlassian Cloud Hosting",
+        "provider": "Atlassian",
+        "monthly_cost": 46.42
+    },
+    {
+        "id": 523,
+        "name": "Slack Monitoring Tool",
+        "provider": "Slack",
+        "monthly_cost": 462.94
+    },
+    {
+        "id": 524,
+        "name": "Slack Creative Pack",
+        "provider": "Slack",
+        "monthly_cost": 161.6
+    },
+    {
+        "id": 525,
+        "name": "Datadog Creative Pack",
+        "provider": "Datadog",
+        "monthly_cost": 357.74
+    },
+    {
+        "id": 526,
+        "name": "Salesforce Enterprise Suite",
+        "provider": "Salesforce",
+        "monthly_cost": 304.8
+    },
+    {
+        "id": 527,
+        "name": "Microsoft Cloud Hosting",
+        "provider": "Microsoft",
+        "monthly_cost": 75.6
+    },
+    {
+        "id": 528,
+        "name": "Datadog Analytics Pro",
+        "provider": "Datadog",
+        "monthly_cost": 472.82
+    },
+    {
+        "id": 529,
+        "name": "Google Cloud Creative Pack",
+        "provider": "Google Cloud",
+        "monthly_cost": 308.69
+    },
+    {
+        "id": 530,
+        "name": "AWS Creative Pack",
+        "provider": "AWS",
+        "monthly_cost": 475.01
+    },
+    {
+        "id": 531,
+        "name": "Salesforce Creative Pack",
+        "provider": "Salesforce",
+        "monthly_cost": 316.6
+    },
+    {
+        "id": 532,
+        "name": "Atlassian Team Chat",
+        "provider": "Atlassian",
+        "monthly_cost": 12.67
+    },
+    {
+        "id": 533,
+        "name": "AWS Enterprise Suite",
+        "provider": "AWS",
+        "monthly_cost": 234.66
+    },
+    {
+        "id": 534,
+        "name": "Datadog Team Chat",
+        "provider": "Datadog",
+        "monthly_cost": 15.01
+    },
+    {
+        "id": 535,
+        "name": "Microsoft Monitoring Tool",
+        "provider": "Microsoft",
+        "monthly_cost": 290.77
+    },
+    {
+        "id": 536,
+        "name": "Microsoft Monitoring Tool",
+        "provider": "Microsoft",
+        "monthly_cost": 166.17
+    },
+    {
+        "id": 537,
+        "name": "Slack CRM Basic",
+        "provider": "Slack",
+        "monthly_cost": 93.31
+    },
+    {
+        "id": 538,
+        "name": "Atlassian Enterprise Suite",
+        "provider": "Atlassian",
+        "monthly_cost": 114.47
+    },
+    {
+        "id": 539,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 308.4
+    },
+    {
+        "id": 540,
+        "name": "Salesforce Enterprise Suite",
+        "provider": "Salesforce",
+        "monthly_cost": 250.32
+    },
+    {
+        "id": 541,
+        "name": "Atlassian Team Chat",
+        "provider": "Atlassian",
+        "monthly_cost": 69.23
+    },
+    {
+        "id": 542,
+        "name": "Salesforce Enterprise Suite",
+        "provider": "Salesforce",
+        "monthly_cost": 378.08
+    },
+    {
+        "id": 543,
+        "name": "Atlassian Monitoring Tool",
+        "provider": "Atlassian",
+        "monthly_cost": 386.89
+    },
+    {
+        "id": 544,
+        "name": "Atlassian Cloud Hosting",
+        "provider": "Atlassian",
+        "monthly_cost": 236.15
+    },
+    {
+        "id": 545,
+        "name": "Slack Monitoring Tool",
+        "provider": "Slack",
+        "monthly_cost": 411.47
+    },
+    {
+        "id": 546,
+        "name": "Google Cloud Analytics Pro",
+        "provider": "Google Cloud",
+        "monthly_cost": 75.47
+    },
+    {
+        "id": 547,
+        "name": "Google Cloud CRM Basic",
+        "provider": "Google Cloud",
+        "monthly_cost": 458.79
+    },
+    {
+        "id": 548,
+        "name": "Salesforce Creative Pack",
+        "provider": "Salesforce",
+        "monthly_cost": 418.2
+    },
+    {
+        "id": 549,
+        "name": "Adobe Monitoring Tool",
+        "provider": "Adobe",
+        "monthly_cost": 447.57
+    },
+    {
+        "id": 550,
+        "name": "Atlassian Enterprise Suite",
+        "provider": "Atlassian",
+        "monthly_cost": 326.32
+    },
+    {
+        "id": 551,
+        "name": "Salesforce Monitoring Tool",
+        "provider": "Salesforce",
+        "monthly_cost": 120.97
+    },
+    {
+        "id": 552,
+        "name": "Slack Project Manager",
+        "provider": "Slack",
+        "monthly_cost": 64.7
+    },
+    {
+        "id": 553,
+        "name": "AWS CRM Basic",
+        "provider": "AWS",
+        "monthly_cost": 275.17
+    },
+    {
+        "id": 554,
+        "name": "Slack Team Chat",
+        "provider": "Slack",
+        "monthly_cost": 67.31
+    },
+    {
+        "id": 555,
+        "name": "Atlassian Enterprise Suite",
+        "provider": "Atlassian",
+        "monthly_cost": 143.17
+    },
+    {
+        "id": 556,
+        "name": "Microsoft CRM Basic",
+        "provider": "Microsoft",
+        "monthly_cost": 11.02
+    },
+    {
+        "id": 557,
+        "name": "Salesforce Analytics Pro",
+        "provider": "Salesforce",
+        "monthly_cost": 207.79
+    },
+    {
+        "id": 558,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 249.32
+    },
+    {
+        "id": 559,
+        "name": "Atlassian Project Manager",
+        "provider": "Atlassian",
+        "monthly_cost": 62.37
+    },
+    {
+        "id": 560,
+        "name": "Salesforce Creative Pack",
+        "provider": "Salesforce",
+        "monthly_cost": 286.59
+    },
+    {
+        "id": 561,
+        "name": "Datadog Monitoring Tool",
+        "provider": "Datadog",
+        "monthly_cost": 364.07
+    },
+    {
+        "id": 562,
+        "name": "Google Cloud Project Manager",
+        "provider": "Google Cloud",
+        "monthly_cost": 373.87
+    },
+    {
+        "id": 563,
+        "name": "Microsoft Enterprise Suite",
+        "provider": "Microsoft",
+        "monthly_cost": 144.48
+    },
+    {
+        "id": 564,
+        "name": "AWS Project Manager",
+        "provider": "AWS",
+        "monthly_cost": 359.73
+    },
+    {
+        "id": 565,
+        "name": "Microsoft Enterprise Suite",
+        "provider": "Microsoft",
+        "monthly_cost": 376.37
+    },
+    {
+        "id": 566,
+        "name": "Adobe Team Chat",
+        "provider": "Adobe",
+        "monthly_cost": 141.28
+    },
+    {
+        "id": 567,
+        "name": "Microsoft Monitoring Tool",
+        "provider": "Microsoft",
+        "monthly_cost": 21.07
+    },
+    {
+        "id": 568,
+        "name": "Adobe Creative Pack",
+        "provider": "Adobe",
+        "monthly_cost": 311.94
+    },
+    {
+        "id": 569,
+        "name": "Google Cloud Project Manager",
+        "provider": "Google Cloud",
+        "monthly_cost": 474.07
+    },
+    {
+        "id": 570,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 439.74
+    },
+    {
+        "id": 571,
+        "name": "Datadog Cloud Hosting",
+        "provider": "Datadog",
+        "monthly_cost": 142.16
+    },
+    {
+        "id": 572,
+        "name": "Salesforce Creative Pack",
+        "provider": "Salesforce",
+        "monthly_cost": 251.24
+    },
+    {
+        "id": 573,
+        "name": "Adobe Creative Pack",
+        "provider": "Adobe",
+        "monthly_cost": 423.23
+    },
+    {
+        "id": 574,
+        "name": "Atlassian Project Manager",
+        "provider": "Atlassian",
+        "monthly_cost": 147.44
+    },
+    {
+        "id": 575,
+        "name": "Atlassian Analytics Pro",
+        "provider": "Atlassian",
+        "monthly_cost": 379.47
+    },
+    {
+        "id": 576,
+        "name": "Datadog Monitoring Tool",
+        "provider": "Datadog",
+        "monthly_cost": 417.44
+    },
+    {
+        "id": 577,
+        "name": "Google Cloud Cloud Hosting",
+        "provider": "Google Cloud",
+        "monthly_cost": 216.36
+    },
+    {
+        "id": 578,
+        "name": "Datadog Creative Pack",
+        "provider": "Datadog",
+        "monthly_cost": 459.28
+    },
+    {
+        "id": 579,
+        "name": "AWS CRM Basic",
+        "provider": "AWS",
+        "monthly_cost": 92.14
+    },
+    {
+        "id": 580,
+        "name": "Salesforce Enterprise Suite",
+        "provider": "Salesforce",
+        "monthly_cost": 321.52
+    },
+    {
+        "id": 581,
+        "name": "AWS Project Manager",
+        "provider": "AWS",
+        "monthly_cost": 398.43
+    },
+    {
+        "id": 582,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 387.44
+    },
+    {
+        "id": 583,
+        "name": "Google Cloud Enterprise Suite",
+        "provider": "Google Cloud",
+        "monthly_cost": 376.87
+    },
+    {
+        "id": 584,
+        "name": "Adobe Enterprise Suite",
+        "provider": "Adobe",
+        "monthly_cost": 289.93
+    },
+    {
+        "id": 585,
+        "name": "Slack Cloud Hosting",
+        "provider": "Slack",
+        "monthly_cost": 380.65
+    },
+    {
+        "id": 586,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 312.31
+    },
+    {
+        "id": 587,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 351.67
+    },
+    {
+        "id": 588,
+        "name": "Salesforce Monitoring Tool",
+        "provider": "Salesforce",
+        "monthly_cost": 187.56
+    },
+    {
+        "id": 589,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 315.18
+    },
+    {
+        "id": 590,
+        "name": "Slack Creative Pack",
+        "provider": "Slack",
+        "monthly_cost": 233.41
+    },
+    {
+        "id": 591,
+        "name": "Salesforce Project Manager",
+        "provider": "Salesforce",
+        "monthly_cost": 135.41
+    },
+    {
+        "id": 592,
+        "name": "Datadog Team Chat",
+        "provider": "Datadog",
+        "monthly_cost": 467.58
+    },
+    {
+        "id": 593,
+        "name": "Atlassian Analytics Pro",
+        "provider": "Atlassian",
+        "monthly_cost": 214.09
+    },
+    {
+        "id": 594,
+        "name": "AWS Monitoring Tool",
+        "provider": "AWS",
+        "monthly_cost": 466.9
+    },
+    {
+        "id": 595,
+        "name": "AWS Project Manager",
+        "provider": "AWS",
+        "monthly_cost": 453.46
+    },
+    {
+        "id": 596,
+        "name": "Adobe Creative Pack",
+        "provider": "Adobe",
+        "monthly_cost": 225.04
+    },
+    {
+        "id": 597,
+        "name": "Salesforce Project Manager",
+        "provider": "Salesforce",
+        "monthly_cost": 151.51
+    },
+    {
+        "id": 598,
+        "name": "Google Cloud Cloud Hosting",
+        "provider": "Google Cloud",
+        "monthly_cost": 405.01
+    },
+    {
+        "id": 599,
+        "name": "Adobe Team Chat",
+        "provider": "Adobe",
+        "monthly_cost": 159.78
+    },
+    {
+        "id": 600,
+        "name": "Adobe Project Manager",
+        "provider": "Adobe",
+        "monthly_cost": 218.22
+    },
+    {
+        "id": 601,
+        "name": "Adobe Analytics Pro",
+        "provider": "Adobe",
+        "monthly_cost": 54.32
+    },
+    {
+        "id": 602,
+        "name": "Datadog Team Chat",
+        "provider": "Datadog",
+        "monthly_cost": 375.84
+    },
+    {
+        "id": 603,
+        "name": "Slack Project Manager",
+        "provider": "Slack",
+        "monthly_cost": 262.15
+    },
+    {
+        "id": 604,
+        "name": "Slack Cloud Hosting",
+        "provider": "Slack",
+        "monthly_cost": 351.94
+    },
+    {
+        "id": 605,
+        "name": "Slack Team Chat",
+        "provider": "Slack",
+        "monthly_cost": 247.87
+    },
+    {
+        "id": 606,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 494.75
+    },
+    {
+        "id": 607,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 486.7
+    },
+    {
+        "id": 608,
+        "name": "Adobe Cloud Hosting",
+        "provider": "Adobe",
+        "monthly_cost": 333.06
+    },
+    {
+        "id": 609,
+        "name": "Google Cloud Creative Pack",
+        "provider": "Google Cloud",
+        "monthly_cost": 419.98
+    },
+    {
+        "id": 610,
+        "name": "Adobe Team Chat",
+        "provider": "Adobe",
+        "monthly_cost": 487.06
+    },
+    {
+        "id": 611,
+        "name": "Google Cloud Team Chat",
+        "provider": "Google Cloud",
+        "monthly_cost": 482.32
+    },
+    {
+        "id": 612,
+        "name": "Slack Team Chat",
+        "provider": "Slack",
+        "monthly_cost": 72.07
+    },
+    {
+        "id": 613,
+        "name": "Google Cloud Monitoring Tool",
+        "provider": "Google Cloud",
+        "monthly_cost": 304.56
+    },
+    {
+        "id": 614,
+        "name": "AWS Cloud Hosting",
+        "provider": "AWS",
+        "monthly_cost": 497.78
+    },
+    {
+        "id": 615,
+        "name": "Microsoft Enterprise Suite",
+        "provider": "Microsoft",
+        "monthly_cost": 99.22
+    },
+    {
+        "id": 616,
+        "name": "Google Cloud Monitoring Tool",
+        "provider": "Google Cloud",
+        "monthly_cost": 188.36
+    },
+    {
+        "id": 617,
+        "name": "Google Cloud Team Chat",
+        "provider": "Google Cloud",
+        "monthly_cost": 67.61
+    },
+    {
+        "id": 618,
+        "name": "Slack Monitoring Tool",
+        "provider": "Slack",
+        "monthly_cost": 257.48
+    },
+    {
+        "id": 619,
+        "name": "Adobe Project Manager",
+        "provider": "Adobe",
+        "monthly_cost": 464.42
+    },
+    {
+        "id": 620,
+        "name": "Salesforce Team Chat",
+        "provider": "Salesforce",
+        "monthly_cost": 45.4
+    },
+    {
+        "id": 621,
+        "name": "Atlassian Team Chat",
+        "provider": "Atlassian",
+        "monthly_cost": 431.59
+    },
+    {
+        "id": 622,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 276.92
+    },
+    {
+        "id": 623,
+        "name": "Atlassian Cloud Hosting",
+        "provider": "Atlassian",
+        "monthly_cost": 217.48
+    },
+    {
+        "id": 624,
+        "name": "Google Cloud CRM Basic",
+        "provider": "Google Cloud",
+        "monthly_cost": 113.2
+    },
+    {
+        "id": 625,
+        "name": "Microsoft CRM Basic",
+        "provider": "Microsoft",
+        "monthly_cost": 95.0
+    },
+    {
+        "id": 626,
+        "name": "Datadog CRM Basic",
+        "provider": "Datadog",
+        "monthly_cost": 447.82
+    },
+    {
+        "id": 627,
+        "name": "Microsoft Monitoring Tool",
+        "provider": "Microsoft",
+        "monthly_cost": 159.76
+    },
+    {
+        "id": 628,
+        "name": "Adobe CRM Basic",
+        "provider": "Adobe",
+        "monthly_cost": 473.34
+    },
+    {
+        "id": 629,
+        "name": "AWS Enterprise Suite",
+        "provider": "AWS",
+        "monthly_cost": 156.69
+    },
+    {
+        "id": 630,
+        "name": "Salesforce Analytics Pro",
+        "provider": "Salesforce",
+        "monthly_cost": 464.24
+    },
+    {
+        "id": 631,
+        "name": "Atlassian Team Chat",
+        "provider": "Atlassian",
+        "monthly_cost": 462.87
+    },
+    {
+        "id": 632,
+        "name": "Adobe Creative Pack",
+        "provider": "Adobe",
+        "monthly_cost": 300.97
+    },
+    {
+        "id": 633,
+        "name": "Adobe Analytics Pro",
+        "provider": "Adobe",
+        "monthly_cost": 379.36
+    },
+    {
+        "id": 634,
+        "name": "Microsoft Project Manager",
+        "provider": "Microsoft",
+        "monthly_cost": 485.12
+    },
+    {
+        "id": 635,
+        "name": "AWS Monitoring Tool",
+        "provider": "AWS",
+        "monthly_cost": 393.15
+    },
+    {
+        "id": 636,
+        "name": "Atlassian Creative Pack",
+        "provider": "Atlassian",
+        "monthly_cost": 26.1
+    },
+    {
+        "id": 637,
+        "name": "Adobe Cloud Hosting",
+        "provider": "Adobe",
+        "monthly_cost": 382.93
+    },
+    {
+        "id": 638,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 377.31
+    },
+    {
+        "id": 639,
+        "name": "Microsoft Analytics Pro",
+        "provider": "Microsoft",
+        "monthly_cost": 72.41
+    },
+    {
+        "id": 640,
+        "name": "Adobe Team Chat",
+        "provider": "Adobe",
+        "monthly_cost": 421.7
+    },
+    {
+        "id": 641,
+        "name": "Microsoft Monitoring Tool",
+        "provider": "Microsoft",
+        "monthly_cost": 31.01
+    },
+    {
+        "id": 642,
+        "name": "Salesforce Team Chat",
+        "provider": "Salesforce",
+        "monthly_cost": 355.21
+    },
+    {
+        "id": 643,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 269.28
+    },
+    {
+        "id": 644,
+        "name": "Datadog Monitoring Tool",
+        "provider": "Datadog",
+        "monthly_cost": 333.97
+    },
+    {
+        "id": 645,
+        "name": "Salesforce Cloud Hosting",
+        "provider": "Salesforce",
+        "monthly_cost": 187.23
+    },
+    {
+        "id": 646,
+        "name": "Datadog Monitoring Tool",
+        "provider": "Datadog",
+        "monthly_cost": 431.41
+    },
+    {
+        "id": 647,
+        "name": "Google Cloud CRM Basic",
+        "provider": "Google Cloud",
+        "monthly_cost": 18.71
+    },
+    {
+        "id": 648,
+        "name": "AWS Monitoring Tool",
+        "provider": "AWS",
+        "monthly_cost": 21.86
+    },
+    {
+        "id": 649,
+        "name": "Slack Cloud Hosting",
+        "provider": "Slack",
+        "monthly_cost": 342.63
+    },
+    {
+        "id": 650,
+        "name": "Datadog Monitoring Tool",
+        "provider": "Datadog",
+        "monthly_cost": 147.44
+    },
+    {
+        "id": 651,
+        "name": "AWS Enterprise Suite",
+        "provider": "AWS",
+        "monthly_cost": 12.16
+    },
+    {
+        "id": 652,
+        "name": "AWS Cloud Hosting",
+        "provider": "AWS",
+        "monthly_cost": 307.24
+    },
+    {
+        "id": 653,
+        "name": "Adobe Analytics Pro",
+        "provider": "Adobe",
+        "monthly_cost": 186.17
+    },
+    {
+        "id": 654,
+        "name": "Slack Creative Pack",
+        "provider": "Slack",
+        "monthly_cost": 413.29
+    },
+    {
+        "id": 655,
+        "name": "Datadog Monitoring Tool",
+        "provider": "Datadog",
+        "monthly_cost": 375.52
+    },
+    {
+        "id": 656,
+        "name": "Atlassian Project Manager",
+        "provider": "Atlassian",
+        "monthly_cost": 364.04
+    },
+    {
+        "id": 657,
+        "name": "Microsoft Project Manager",
+        "provider": "Microsoft",
+        "monthly_cost": 60.52
+    },
+    {
+        "id": 658,
+        "name": "AWS Monitoring Tool",
+        "provider": "AWS",
+        "monthly_cost": 320.7
+    },
+    {
+        "id": 659,
+        "name": "Adobe Creative Pack",
+        "provider": "Adobe",
+        "monthly_cost": 383.69
+    },
+    {
+        "id": 660,
+        "name": "Microsoft Cloud Hosting",
+        "provider": "Microsoft",
+        "monthly_cost": 439.4
+    },
+    {
+        "id": 661,
+        "name": "Adobe Enterprise Suite",
+        "provider": "Adobe",
+        "monthly_cost": 52.64
+    },
+    {
+        "id": 662,
+        "name": "Microsoft CRM Basic",
+        "provider": "Microsoft",
+        "monthly_cost": 115.36
+    },
+    {
+        "id": 663,
+        "name": "Atlassian Cloud Hosting",
+        "provider": "Atlassian",
+        "monthly_cost": 81.31
+    },
+    {
+        "id": 664,
+        "name": "Atlassian CRM Basic",
+        "provider": "Atlassian",
+        "monthly_cost": 26.62
+    },
+    {
+        "id": 665,
+        "name": "Adobe Monitoring Tool",
+        "provider": "Adobe",
+        "monthly_cost": 307.69
+    },
+    {
+        "id": 666,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 410.7
+    },
+    {
+        "id": 667,
+        "name": "Slack Project Manager",
+        "provider": "Slack",
+        "monthly_cost": 167.15
+    },
+    {
+        "id": 668,
+        "name": "Google Cloud Cloud Hosting",
+        "provider": "Google Cloud",
+        "monthly_cost": 299.5
+    },
+    {
+        "id": 669,
+        "name": "Slack Enterprise Suite",
+        "provider": "Slack",
+        "monthly_cost": 406.93
+    },
+    {
+        "id": 670,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 91.84
+    },
+    {
+        "id": 671,
+        "name": "AWS Monitoring Tool",
+        "provider": "AWS",
+        "monthly_cost": 160.3
+    },
+    {
+        "id": 672,
+        "name": "Google Cloud CRM Basic",
+        "provider": "Google Cloud",
+        "monthly_cost": 405.94
+    },
+    {
+        "id": 673,
+        "name": "Datadog Monitoring Tool",
+        "provider": "Datadog",
+        "monthly_cost": 279.89
+    },
+    {
+        "id": 674,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 230.24
+    },
+    {
+        "id": 675,
+        "name": "Google Cloud Cloud Hosting",
+        "provider": "Google Cloud",
+        "monthly_cost": 209.8
+    },
+    {
+        "id": 676,
+        "name": "Google Cloud Team Chat",
+        "provider": "Google Cloud",
+        "monthly_cost": 178.34
+    },
+    {
+        "id": 677,
+        "name": "Google Cloud Enterprise Suite",
+        "provider": "Google Cloud",
+        "monthly_cost": 344.77
+    },
+    {
+        "id": 678,
+        "name": "Datadog Monitoring Tool",
+        "provider": "Datadog",
+        "monthly_cost": 480.31
+    },
+    {
+        "id": 679,
+        "name": "Atlassian CRM Basic",
+        "provider": "Atlassian",
+        "monthly_cost": 485.28
+    },
+    {
+        "id": 680,
+        "name": "Google Cloud CRM Basic",
+        "provider": "Google Cloud",
+        "monthly_cost": 316.26
+    },
+    {
+        "id": 681,
+        "name": "Google Cloud Enterprise Suite",
+        "provider": "Google Cloud",
+        "monthly_cost": 411.59
+    },
+    {
+        "id": 682,
+        "name": "Slack Monitoring Tool",
+        "provider": "Slack",
+        "monthly_cost": 358.37
+    },
+    {
+        "id": 683,
+        "name": "AWS Creative Pack",
+        "provider": "AWS",
+        "monthly_cost": 223.04
+    },
+    {
+        "id": 684,
+        "name": "Adobe Creative Pack",
+        "provider": "Adobe",
+        "monthly_cost": 406.81
+    },
+    {
+        "id": 685,
+        "name": "Adobe Project Manager",
+        "provider": "Adobe",
+        "monthly_cost": 141.0
+    },
+    {
+        "id": 686,
+        "name": "Google Cloud Analytics Pro",
+        "provider": "Google Cloud",
+        "monthly_cost": 153.2
+    },
+    {
+        "id": 687,
+        "name": "Adobe Project Manager",
+        "provider": "Adobe",
+        "monthly_cost": 406.64
+    },
+    {
+        "id": 688,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 361.5
+    },
+    {
+        "id": 689,
+        "name": "Microsoft Cloud Hosting",
+        "provider": "Microsoft",
+        "monthly_cost": 81.62
+    },
+    {
+        "id": 690,
+        "name": "Salesforce Monitoring Tool",
+        "provider": "Salesforce",
+        "monthly_cost": 183.59
+    },
+    {
+        "id": 691,
+        "name": "Google Cloud Team Chat",
+        "provider": "Google Cloud",
+        "monthly_cost": 130.79
+    },
+    {
+        "id": 692,
+        "name": "Atlassian Cloud Hosting",
+        "provider": "Atlassian",
+        "monthly_cost": 422.63
+    },
+    {
+        "id": 693,
+        "name": "AWS Creative Pack",
+        "provider": "AWS",
+        "monthly_cost": 121.09
+    },
+    {
+        "id": 694,
+        "name": "Salesforce Enterprise Suite",
+        "provider": "Salesforce",
+        "monthly_cost": 280.64
+    },
+    {
+        "id": 695,
+        "name": "AWS Project Manager",
+        "provider": "AWS",
+        "monthly_cost": 230.26
+    },
+    {
+        "id": 696,
+        "name": "Google Cloud Cloud Hosting",
+        "provider": "Google Cloud",
+        "monthly_cost": 386.99
+    },
+    {
+        "id": 697,
+        "name": "Google Cloud Team Chat",
+        "provider": "Google Cloud",
+        "monthly_cost": 38.46
+    },
+    {
+        "id": 698,
+        "name": "Slack Monitoring Tool",
+        "provider": "Slack",
+        "monthly_cost": 35.53
+    },
+    {
+        "id": 699,
+        "name": "Microsoft Enterprise Suite",
+        "provider": "Microsoft",
+        "monthly_cost": 402.97
+    },
+    {
+        "id": 700,
+        "name": "Google Cloud Analytics Pro",
+        "provider": "Google Cloud",
+        "monthly_cost": 208.66
+    },
+    {
+        "id": 701,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 345.15
+    },
+    {
+        "id": 702,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 321.43
+    },
+    {
+        "id": 703,
+        "name": "AWS Project Manager",
+        "provider": "AWS",
+        "monthly_cost": 182.94
+    },
+    {
+        "id": 704,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 412.08
+    },
+    {
+        "id": 705,
+        "name": "Adobe Cloud Hosting",
+        "provider": "Adobe",
+        "monthly_cost": 185.84
+    },
+    {
+        "id": 706,
+        "name": "Slack Cloud Hosting",
+        "provider": "Slack",
+        "monthly_cost": 206.33
+    },
+    {
+        "id": 707,
+        "name": "Google Cloud Project Manager",
+        "provider": "Google Cloud",
+        "monthly_cost": 117.38
+    },
+    {
+        "id": 708,
+        "name": "Slack Cloud Hosting",
+        "provider": "Slack",
+        "monthly_cost": 289.04
+    },
+    {
+        "id": 709,
+        "name": "AWS Analytics Pro",
+        "provider": "AWS",
+        "monthly_cost": 156.78
+    },
+    {
+        "id": 710,
+        "name": "Adobe CRM Basic",
+        "provider": "Adobe",
+        "monthly_cost": 332.06
+    },
+    {
+        "id": 711,
+        "name": "Microsoft Monitoring Tool",
+        "provider": "Microsoft",
+        "monthly_cost": 167.88
+    },
+    {
+        "id": 712,
+        "name": "Google Cloud CRM Basic",
+        "provider": "Google Cloud",
+        "monthly_cost": 210.77
+    },
+    {
+        "id": 713,
+        "name": "AWS Creative Pack",
+        "provider": "AWS",
+        "monthly_cost": 98.84
+    },
+    {
+        "id": 714,
+        "name": "AWS CRM Basic",
+        "provider": "AWS",
+        "monthly_cost": 324.38
+    },
+    {
+        "id": 715,
+        "name": "Datadog Cloud Hosting",
+        "provider": "Datadog",
+        "monthly_cost": 335.53
+    },
+    {
+        "id": 716,
+        "name": "Atlassian Analytics Pro",
+        "provider": "Atlassian",
+        "monthly_cost": 98.61
+    },
+    {
+        "id": 717,
+        "name": "Google Cloud Enterprise Suite",
+        "provider": "Google Cloud",
+        "monthly_cost": 293.4
+    },
+    {
+        "id": 718,
+        "name": "Salesforce Team Chat",
+        "provider": "Salesforce",
+        "monthly_cost": 476.61
+    },
+    {
+        "id": 719,
+        "name": "AWS Project Manager",
+        "provider": "AWS",
+        "monthly_cost": 84.64
+    },
+    {
+        "id": 720,
+        "name": "Slack Project Manager",
+        "provider": "Slack",
+        "monthly_cost": 249.11
+    },
+    {
+        "id": 721,
+        "name": "Microsoft Cloud Hosting",
+        "provider": "Microsoft",
+        "monthly_cost": 438.04
+    },
+    {
+        "id": 722,
+        "name": "AWS Monitoring Tool",
+        "provider": "AWS",
+        "monthly_cost": 186.19
+    },
+    {
+        "id": 723,
+        "name": "AWS Team Chat",
+        "provider": "AWS",
+        "monthly_cost": 39.66
+    },
+    {
+        "id": 724,
+        "name": "Adobe Project Manager",
+        "provider": "Adobe",
+        "monthly_cost": 225.34
+    },
+    {
+        "id": 725,
+        "name": "AWS CRM Basic",
+        "provider": "AWS",
+        "monthly_cost": 470.28
+    },
+    {
+        "id": 726,
+        "name": "Slack CRM Basic",
+        "provider": "Slack",
+        "monthly_cost": 327.19
+    },
+    {
+        "id": 727,
+        "name": "Atlassian Monitoring Tool",
+        "provider": "Atlassian",
+        "monthly_cost": 464.4
+    },
+    {
+        "id": 728,
+        "name": "Salesforce Creative Pack",
+        "provider": "Salesforce",
+        "monthly_cost": 474.24
+    },
+    {
+        "id": 729,
+        "name": "Atlassian Analytics Pro",
+        "provider": "Atlassian",
+        "monthly_cost": 382.34
+    },
+    {
+        "id": 730,
+        "name": "AWS Project Manager",
+        "provider": "AWS",
+        "monthly_cost": 304.0
+    },
+    {
+        "id": 731,
+        "name": "AWS Cloud Hosting",
+        "provider": "AWS",
+        "monthly_cost": 26.27
+    },
+    {
+        "id": 732,
+        "name": "Adobe CRM Basic",
+        "provider": "Adobe",
+        "monthly_cost": 290.71
+    },
+    {
+        "id": 733,
+        "name": "Atlassian Analytics Pro",
+        "provider": "Atlassian",
+        "monthly_cost": 222.81
+    },
+    {
+        "id": 734,
+        "name": "Microsoft Enterprise Suite",
+        "provider": "Microsoft",
+        "monthly_cost": 383.47
+    },
+    {
+        "id": 735,
+        "name": "Slack Project Manager",
+        "provider": "Slack",
+        "monthly_cost": 427.97
+    },
+    {
+        "id": 736,
+        "name": "Microsoft Project Manager",
+        "provider": "Microsoft",
+        "monthly_cost": 141.2
+    },
+    {
+        "id": 737,
+        "name": "Google Cloud Enterprise Suite",
+        "provider": "Google Cloud",
+        "monthly_cost": 220.92
+    },
+    {
+        "id": 738,
+        "name": "Slack Creative Pack",
+        "provider": "Slack",
+        "monthly_cost": 144.32
+    },
+    {
+        "id": 739,
+        "name": "Microsoft Enterprise Suite",
+        "provider": "Microsoft",
+        "monthly_cost": 350.59
+    },
+    {
+        "id": 740,
+        "name": "Salesforce Monitoring Tool",
+        "provider": "Salesforce",
+        "monthly_cost": 172.99
+    },
+    {
+        "id": 741,
+        "name": "Google Cloud Monitoring Tool",
+        "provider": "Google Cloud",
+        "monthly_cost": 195.04
+    },
+    {
+        "id": 742,
+        "name": "Microsoft Cloud Hosting",
+        "provider": "Microsoft",
+        "monthly_cost": 258.01
+    },
+    {
+        "id": 743,
+        "name": "Atlassian Creative Pack",
+        "provider": "Atlassian",
+        "monthly_cost": 280.76
+    },
+    {
+        "id": 744,
+        "name": "Atlassian Team Chat",
+        "provider": "Atlassian",
+        "monthly_cost": 120.3
+    },
+    {
+        "id": 745,
+        "name": "AWS Cloud Hosting",
+        "provider": "AWS",
+        "monthly_cost": 88.1
+    },
+    {
+        "id": 746,
+        "name": "Google Cloud Analytics Pro",
+        "provider": "Google Cloud",
+        "monthly_cost": 103.61
+    },
+    {
+        "id": 747,
+        "name": "Microsoft Cloud Hosting",
+        "provider": "Microsoft",
+        "monthly_cost": 228.37
+    },
+    {
+        "id": 748,
+        "name": "Slack Monitoring Tool",
+        "provider": "Slack",
+        "monthly_cost": 117.07
+    },
+    {
+        "id": 749,
+        "name": "Microsoft Monitoring Tool",
+        "provider": "Microsoft",
+        "monthly_cost": 218.03
+    },
+    {
+        "id": 750,
+        "name": "AWS CRM Basic",
+        "provider": "AWS",
+        "monthly_cost": 190.08
+    },
+    {
+        "id": 751,
+        "name": "Atlassian Creative Pack",
+        "provider": "Atlassian",
+        "monthly_cost": 481.08
+    },
+    {
+        "id": 752,
+        "name": "Microsoft Monitoring Tool",
+        "provider": "Microsoft",
+        "monthly_cost": 362.07
+    },
+    {
+        "id": 753,
+        "name": "Atlassian Monitoring Tool",
+        "provider": "Atlassian",
+        "monthly_cost": 283.1
+    },
+    {
+        "id": 754,
+        "name": "AWS Team Chat",
+        "provider": "AWS",
+        "monthly_cost": 17.13
+    },
+    {
+        "id": 755,
+        "name": "Datadog Monitoring Tool",
+        "provider": "Datadog",
+        "monthly_cost": 392.97
+    },
+    {
+        "id": 756,
+        "name": "Slack Enterprise Suite",
+        "provider": "Slack",
+        "monthly_cost": 342.21
+    },
+    {
+        "id": 757,
+        "name": "Datadog Creative Pack",
+        "provider": "Datadog",
+        "monthly_cost": 56.94
+    },
+    {
+        "id": 758,
+        "name": "Slack Project Manager",
+        "provider": "Slack",
+        "monthly_cost": 273.7
+    },
+    {
+        "id": 759,
+        "name": "Microsoft Monitoring Tool",
+        "provider": "Microsoft",
+        "monthly_cost": 225.11
+    },
+    {
+        "id": 760,
+        "name": "Datadog Cloud Hosting",
+        "provider": "Datadog",
+        "monthly_cost": 270.91
+    },
+    {
+        "id": 761,
+        "name": "Atlassian CRM Basic",
+        "provider": "Atlassian",
+        "monthly_cost": 56.38
+    },
+    {
+        "id": 762,
+        "name": "Slack Cloud Hosting",
+        "provider": "Slack",
+        "monthly_cost": 411.42
+    },
+    {
+        "id": 763,
+        "name": "AWS Analytics Pro",
+        "provider": "AWS",
+        "monthly_cost": 101.55
+    },
+    {
+        "id": 764,
+        "name": "AWS Team Chat",
+        "provider": "AWS",
+        "monthly_cost": 200.81
+    },
+    {
+        "id": 765,
+        "name": "Slack Monitoring Tool",
+        "provider": "Slack",
+        "monthly_cost": 165.34
+    },
+    {
+        "id": 766,
+        "name": "Adobe Creative Pack",
+        "provider": "Adobe",
+        "monthly_cost": 81.69
+    },
+    {
+        "id": 767,
+        "name": "Salesforce Creative Pack",
+        "provider": "Salesforce",
+        "monthly_cost": 33.05
+    },
+    {
+        "id": 768,
+        "name": "Salesforce Project Manager",
+        "provider": "Salesforce",
+        "monthly_cost": 53.68
+    },
+    {
+        "id": 769,
+        "name": "AWS Monitoring Tool",
+        "provider": "AWS",
+        "monthly_cost": 427.46
+    },
+    {
+        "id": 770,
+        "name": "Salesforce Cloud Hosting",
+        "provider": "Salesforce",
+        "monthly_cost": 201.21
+    },
+    {
+        "id": 771,
+        "name": "AWS Creative Pack",
+        "provider": "AWS",
+        "monthly_cost": 106.5
+    },
+    {
+        "id": 772,
+        "name": "Slack CRM Basic",
+        "provider": "Slack",
+        "monthly_cost": 206.67
+    },
+    {
+        "id": 773,
+        "name": "Slack CRM Basic",
+        "provider": "Slack",
+        "monthly_cost": 493.94
+    },
+    {
+        "id": 774,
+        "name": "Google Cloud Team Chat",
+        "provider": "Google Cloud",
+        "monthly_cost": 488.64
+    },
+    {
+        "id": 775,
+        "name": "Atlassian Analytics Pro",
+        "provider": "Atlassian",
+        "monthly_cost": 296.22
+    },
+    {
+        "id": 776,
+        "name": "AWS Project Manager",
+        "provider": "AWS",
+        "monthly_cost": 426.69
+    },
+    {
+        "id": 777,
+        "name": "Salesforce Monitoring Tool",
+        "provider": "Salesforce",
+        "monthly_cost": 114.96
+    },
+    {
+        "id": 778,
+        "name": "Adobe Cloud Hosting",
+        "provider": "Adobe",
+        "monthly_cost": 138.35
+    },
+    {
+        "id": 779,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 399.12
+    },
+    {
+        "id": 780,
+        "name": "Google Cloud CRM Basic",
+        "provider": "Google Cloud",
+        "monthly_cost": 199.56
+    },
+    {
+        "id": 781,
+        "name": "Atlassian Enterprise Suite",
+        "provider": "Atlassian",
+        "monthly_cost": 22.99
+    },
+    {
+        "id": 782,
+        "name": "Atlassian Monitoring Tool",
+        "provider": "Atlassian",
+        "monthly_cost": 294.34
+    },
+    {
+        "id": 783,
+        "name": "Salesforce Enterprise Suite",
+        "provider": "Salesforce",
+        "monthly_cost": 411.67
+    },
+    {
+        "id": 784,
+        "name": "AWS Analytics Pro",
+        "provider": "AWS",
+        "monthly_cost": 132.65
+    },
+    {
+        "id": 785,
+        "name": "Slack Monitoring Tool",
+        "provider": "Slack",
+        "monthly_cost": 158.29
+    },
+    {
+        "id": 786,
+        "name": "Google Cloud Monitoring Tool",
+        "provider": "Google Cloud",
+        "monthly_cost": 349.26
+    },
+    {
+        "id": 787,
+        "name": "Datadog Team Chat",
+        "provider": "Datadog",
+        "monthly_cost": 349.92
+    },
+    {
+        "id": 788,
+        "name": "Salesforce Project Manager",
+        "provider": "Salesforce",
+        "monthly_cost": 259.35
+    },
+    {
+        "id": 789,
+        "name": "Slack Monitoring Tool",
+        "provider": "Slack",
+        "monthly_cost": 214.22
+    },
+    {
+        "id": 790,
+        "name": "Atlassian Monitoring Tool",
+        "provider": "Atlassian",
+        "monthly_cost": 151.42
+    },
+    {
+        "id": 791,
+        "name": "Slack Cloud Hosting",
+        "provider": "Slack",
+        "monthly_cost": 186.26
+    },
+    {
+        "id": 792,
+        "name": "Datadog CRM Basic",
+        "provider": "Datadog",
+        "monthly_cost": 213.77
+    },
+    {
+        "id": 793,
+        "name": "AWS Analytics Pro",
+        "provider": "AWS",
+        "monthly_cost": 388.49
+    },
+    {
+        "id": 794,
+        "name": "Atlassian Enterprise Suite",
+        "provider": "Atlassian",
+        "monthly_cost": 170.61
+    },
+    {
+        "id": 795,
+        "name": "Adobe CRM Basic",
+        "provider": "Adobe",
+        "monthly_cost": 404.51
+    },
+    {
+        "id": 796,
+        "name": "Datadog Team Chat",
+        "provider": "Datadog",
+        "monthly_cost": 374.06
+    },
+    {
+        "id": 797,
+        "name": "Google Cloud CRM Basic",
+        "provider": "Google Cloud",
+        "monthly_cost": 184.04
+    },
+    {
+        "id": 798,
+        "name": "Google Cloud Analytics Pro",
+        "provider": "Google Cloud",
+        "monthly_cost": 301.82
+    },
+    {
+        "id": 799,
+        "name": "AWS Cloud Hosting",
+        "provider": "AWS",
+        "monthly_cost": 425.91
+    },
+    {
+        "id": 800,
+        "name": "Salesforce Team Chat",
+        "provider": "Salesforce",
+        "monthly_cost": 498.53
+    },
+    {
+        "id": 801,
+        "name": "Google Cloud Cloud Hosting",
+        "provider": "Google Cloud",
+        "monthly_cost": 68.37
+    },
+    {
+        "id": 802,
+        "name": "Atlassian Analytics Pro",
+        "provider": "Atlassian",
+        "monthly_cost": 285.33
+    },
+    {
+        "id": 803,
+        "name": "Datadog Monitoring Tool",
+        "provider": "Datadog",
+        "monthly_cost": 259.48
+    },
+    {
+        "id": 804,
+        "name": "Microsoft Analytics Pro",
+        "provider": "Microsoft",
+        "monthly_cost": 377.82
+    },
+    {
+        "id": 805,
+        "name": "Google Cloud CRM Basic",
+        "provider": "Google Cloud",
+        "monthly_cost": 199.63
+    },
+    {
+        "id": 806,
+        "name": "Datadog Team Chat",
+        "provider": "Datadog",
+        "monthly_cost": 195.59
+    },
+    {
+        "id": 807,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 343.63
+    },
+    {
+        "id": 808,
+        "name": "Microsoft CRM Basic",
+        "provider": "Microsoft",
+        "monthly_cost": 309.03
+    },
+    {
+        "id": 809,
+        "name": "Atlassian Monitoring Tool",
+        "provider": "Atlassian",
+        "monthly_cost": 437.24
+    },
+    {
+        "id": 810,
+        "name": "AWS Enterprise Suite",
+        "provider": "AWS",
+        "monthly_cost": 380.7
+    },
+    {
+        "id": 811,
+        "name": "Slack Enterprise Suite",
+        "provider": "Slack",
+        "monthly_cost": 463.78
+    },
+    {
+        "id": 812,
+        "name": "Datadog Team Chat",
+        "provider": "Datadog",
+        "monthly_cost": 157.09
+    },
+    {
+        "id": 813,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 411.01
+    },
+    {
+        "id": 814,
+        "name": "Adobe Monitoring Tool",
+        "provider": "Adobe",
+        "monthly_cost": 63.51
+    },
+    {
+        "id": 815,
+        "name": "Microsoft Team Chat",
+        "provider": "Microsoft",
+        "monthly_cost": 332.4
+    },
+    {
+        "id": 816,
+        "name": "Slack Project Manager",
+        "provider": "Slack",
+        "monthly_cost": 406.13
+    },
+    {
+        "id": 817,
+        "name": "Atlassian CRM Basic",
+        "provider": "Atlassian",
+        "monthly_cost": 240.07
+    },
+    {
+        "id": 818,
+        "name": "Datadog CRM Basic",
+        "provider": "Datadog",
+        "monthly_cost": 466.08
+    },
+    {
+        "id": 819,
+        "name": "AWS Project Manager",
+        "provider": "AWS",
+        "monthly_cost": 431.15
+    },
+    {
+        "id": 820,
+        "name": "Microsoft Enterprise Suite",
+        "provider": "Microsoft",
+        "monthly_cost": 157.06
+    },
+    {
+        "id": 821,
+        "name": "AWS Cloud Hosting",
+        "provider": "AWS",
+        "monthly_cost": 197.28
+    },
+    {
+        "id": 822,
+        "name": "Datadog Monitoring Tool",
+        "provider": "Datadog",
+        "monthly_cost": 290.52
+    },
+    {
+        "id": 823,
+        "name": "AWS Enterprise Suite",
+        "provider": "AWS",
+        "monthly_cost": 72.24
+    },
+    {
+        "id": 824,
+        "name": "AWS Cloud Hosting",
+        "provider": "AWS",
+        "monthly_cost": 133.33
+    },
+    {
+        "id": 825,
+        "name": "Adobe Analytics Pro",
+        "provider": "Adobe",
+        "monthly_cost": 267.69
+    },
+    {
+        "id": 826,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 196.2
+    },
+    {
+        "id": 827,
+        "name": "Salesforce Enterprise Suite",
+        "provider": "Salesforce",
+        "monthly_cost": 95.05
+    },
+    {
+        "id": 828,
+        "name": "Salesforce Enterprise Suite",
+        "provider": "Salesforce",
+        "monthly_cost": 269.28
+    },
+    {
+        "id": 829,
+        "name": "Microsoft Team Chat",
+        "provider": "Microsoft",
+        "monthly_cost": 299.49
+    },
+    {
+        "id": 830,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 429.11
+    },
+    {
+        "id": 831,
+        "name": "Slack Creative Pack",
+        "provider": "Slack",
+        "monthly_cost": 141.65
+    },
+    {
+        "id": 832,
+        "name": "Google Cloud Analytics Pro",
+        "provider": "Google Cloud",
+        "monthly_cost": 371.61
+    },
+    {
+        "id": 833,
+        "name": "Microsoft Cloud Hosting",
+        "provider": "Microsoft",
+        "monthly_cost": 306.98
+    },
+    {
+        "id": 834,
+        "name": "AWS Creative Pack",
+        "provider": "AWS",
+        "monthly_cost": 190.13
+    },
+    {
+        "id": 835,
+        "name": "Datadog Cloud Hosting",
+        "provider": "Datadog",
+        "monthly_cost": 247.4
+    },
+    {
+        "id": 836,
+        "name": "Atlassian Monitoring Tool",
+        "provider": "Atlassian",
+        "monthly_cost": 398.47
+    },
+    {
+        "id": 837,
+        "name": "Adobe Team Chat",
+        "provider": "Adobe",
+        "monthly_cost": 371.11
+    },
+    {
+        "id": 838,
+        "name": "Microsoft CRM Basic",
+        "provider": "Microsoft",
+        "monthly_cost": 405.32
+    },
+    {
+        "id": 839,
+        "name": "Slack Cloud Hosting",
+        "provider": "Slack",
+        "monthly_cost": 428.25
+    },
+    {
+        "id": 840,
+        "name": "Salesforce Monitoring Tool",
+        "provider": "Salesforce",
+        "monthly_cost": 332.85
+    },
+    {
+        "id": 841,
+        "name": "Atlassian Enterprise Suite",
+        "provider": "Atlassian",
+        "monthly_cost": 312.13
+    },
+    {
+        "id": 842,
+        "name": "Atlassian Analytics Pro",
+        "provider": "Atlassian",
+        "monthly_cost": 312.58
+    },
+    {
+        "id": 843,
+        "name": "AWS Project Manager",
+        "provider": "AWS",
+        "monthly_cost": 352.73
+    },
+    {
+        "id": 844,
+        "name": "Slack Monitoring Tool",
+        "provider": "Slack",
+        "monthly_cost": 253.57
+    },
+    {
+        "id": 845,
+        "name": "Atlassian Project Manager",
+        "provider": "Atlassian",
+        "monthly_cost": 411.61
+    },
+    {
+        "id": 846,
+        "name": "Datadog CRM Basic",
+        "provider": "Datadog",
+        "monthly_cost": 156.4
+    },
+    {
+        "id": 847,
+        "name": "Datadog Creative Pack",
+        "provider": "Datadog",
+        "monthly_cost": 118.8
+    },
+    {
+        "id": 848,
+        "name": "Datadog Monitoring Tool",
+        "provider": "Datadog",
+        "monthly_cost": 329.47
+    },
+    {
+        "id": 849,
+        "name": "Adobe Analytics Pro",
+        "provider": "Adobe",
+        "monthly_cost": 470.87
+    },
+    {
+        "id": 850,
+        "name": "Microsoft Team Chat",
+        "provider": "Microsoft",
+        "monthly_cost": 128.62
+    },
+    {
+        "id": 851,
+        "name": "Slack Monitoring Tool",
+        "provider": "Slack",
+        "monthly_cost": 13.93
+    },
+    {
+        "id": 852,
+        "name": "Google Cloud Creative Pack",
+        "provider": "Google Cloud",
+        "monthly_cost": 495.13
+    },
+    {
+        "id": 853,
+        "name": "Adobe Enterprise Suite",
+        "provider": "Adobe",
+        "monthly_cost": 466.33
+    },
+    {
+        "id": 854,
+        "name": "Slack CRM Basic",
+        "provider": "Slack",
+        "monthly_cost": 378.34
+    },
+    {
+        "id": 855,
+        "name": "Google Cloud Creative Pack",
+        "provider": "Google Cloud",
+        "monthly_cost": 203.03
+    },
+    {
+        "id": 856,
+        "name": "Salesforce Monitoring Tool",
+        "provider": "Salesforce",
+        "monthly_cost": 101.74
+    },
+    {
+        "id": 857,
+        "name": "AWS CRM Basic",
+        "provider": "AWS",
+        "monthly_cost": 334.97
+    },
+    {
+        "id": 858,
+        "name": "Atlassian Team Chat",
+        "provider": "Atlassian",
+        "monthly_cost": 379.27
+    },
+    {
+        "id": 859,
+        "name": "Slack Creative Pack",
+        "provider": "Slack",
+        "monthly_cost": 310.41
+    },
+    {
+        "id": 860,
+        "name": "Google Cloud Analytics Pro",
+        "provider": "Google Cloud",
+        "monthly_cost": 197.63
+    },
+    {
+        "id": 861,
+        "name": "Microsoft Enterprise Suite",
+        "provider": "Microsoft",
+        "monthly_cost": 214.04
+    },
+    {
+        "id": 862,
+        "name": "Datadog Monitoring Tool",
+        "provider": "Datadog",
+        "monthly_cost": 372.4
+    },
+    {
+        "id": 863,
+        "name": "Salesforce Cloud Hosting",
+        "provider": "Salesforce",
+        "monthly_cost": 39.66
+    },
+    {
+        "id": 864,
+        "name": "Datadog Team Chat",
+        "provider": "Datadog",
+        "monthly_cost": 448.83
+    },
+    {
+        "id": 865,
+        "name": "Datadog Team Chat",
+        "provider": "Datadog",
+        "monthly_cost": 347.93
+    },
+    {
+        "id": 866,
+        "name": "AWS Cloud Hosting",
+        "provider": "AWS",
+        "monthly_cost": 300.54
+    },
+    {
+        "id": 867,
+        "name": "Adobe Monitoring Tool",
+        "provider": "Adobe",
+        "monthly_cost": 278.04
+    },
+    {
+        "id": 868,
+        "name": "Adobe CRM Basic",
+        "provider": "Adobe",
+        "monthly_cost": 105.52
+    },
+    {
+        "id": 869,
+        "name": "Microsoft Enterprise Suite",
+        "provider": "Microsoft",
+        "monthly_cost": 443.31
+    },
+    {
+        "id": 870,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 118.58
+    },
+    {
+        "id": 871,
+        "name": "Datadog Team Chat",
+        "provider": "Datadog",
+        "monthly_cost": 266.44
+    },
+    {
+        "id": 872,
+        "name": "Salesforce Enterprise Suite",
+        "provider": "Salesforce",
+        "monthly_cost": 281.75
+    },
+    {
+        "id": 873,
+        "name": "Slack Analytics Pro",
+        "provider": "Slack",
+        "monthly_cost": 336.38
+    },
+    {
+        "id": 874,
+        "name": "Adobe Creative Pack",
+        "provider": "Adobe",
+        "monthly_cost": 472.87
+    },
+    {
+        "id": 875,
+        "name": "Adobe Team Chat",
+        "provider": "Adobe",
+        "monthly_cost": 84.13
+    },
+    {
+        "id": 876,
+        "name": "Atlassian Creative Pack",
+        "provider": "Atlassian",
+        "monthly_cost": 484.53
+    },
+    {
+        "id": 877,
+        "name": "Salesforce Enterprise Suite",
+        "provider": "Salesforce",
+        "monthly_cost": 125.03
+    },
+    {
+        "id": 878,
+        "name": "Slack Project Manager",
+        "provider": "Slack",
+        "monthly_cost": 147.31
+    },
+    {
+        "id": 879,
+        "name": "Salesforce Monitoring Tool",
+        "provider": "Salesforce",
+        "monthly_cost": 427.34
+    },
+    {
+        "id": 880,
+        "name": "Salesforce Team Chat",
+        "provider": "Salesforce",
+        "monthly_cost": 328.64
+    },
+    {
+        "id": 881,
+        "name": "Datadog Creative Pack",
+        "provider": "Datadog",
+        "monthly_cost": 161.34
+    },
+    {
+        "id": 882,
+        "name": "AWS Creative Pack",
+        "provider": "AWS",
+        "monthly_cost": 83.49
+    },
+    {
+        "id": 883,
+        "name": "Google Cloud Team Chat",
+        "provider": "Google Cloud",
+        "monthly_cost": 445.83
+    },
+    {
+        "id": 884,
+        "name": "Adobe Analytics Pro",
+        "provider": "Adobe",
+        "monthly_cost": 179.69
+    },
+    {
+        "id": 885,
+        "name": "Microsoft Cloud Hosting",
+        "provider": "Microsoft",
+        "monthly_cost": 480.68
+    },
+    {
+        "id": 886,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 344.64
+    },
+    {
+        "id": 887,
+        "name": "Adobe Team Chat",
+        "provider": "Adobe",
+        "monthly_cost": 87.01
+    },
+    {
+        "id": 888,
+        "name": "Salesforce Monitoring Tool",
+        "provider": "Salesforce",
+        "monthly_cost": 190.26
+    },
+    {
+        "id": 889,
+        "name": "Google Cloud Creative Pack",
+        "provider": "Google Cloud",
+        "monthly_cost": 492.57
+    },
+    {
+        "id": 890,
+        "name": "Atlassian Project Manager",
+        "provider": "Atlassian",
+        "monthly_cost": 88.96
+    },
+    {
+        "id": 891,
+        "name": "Salesforce Cloud Hosting",
+        "provider": "Salesforce",
+        "monthly_cost": 450.43
+    },
+    {
+        "id": 892,
+        "name": "Atlassian Monitoring Tool",
+        "provider": "Atlassian",
+        "monthly_cost": 395.19
+    },
+    {
+        "id": 893,
+        "name": "Salesforce Team Chat",
+        "provider": "Salesforce",
+        "monthly_cost": 157.98
+    },
+    {
+        "id": 894,
+        "name": "Adobe Cloud Hosting",
+        "provider": "Adobe",
+        "monthly_cost": 235.06
+    },
+    {
+        "id": 895,
+        "name": "Atlassian Analytics Pro",
+        "provider": "Atlassian",
+        "monthly_cost": 382.14
+    },
+    {
+        "id": 896,
+        "name": "AWS Creative Pack",
+        "provider": "AWS",
+        "monthly_cost": 378.6
+    },
+    {
+        "id": 897,
+        "name": "Atlassian Monitoring Tool",
+        "provider": "Atlassian",
+        "monthly_cost": 29.36
+    },
+    {
+        "id": 898,
+        "name": "AWS Enterprise Suite",
+        "provider": "AWS",
+        "monthly_cost": 202.3
+    },
+    {
+        "id": 899,
+        "name": "Salesforce Analytics Pro",
+        "provider": "Salesforce",
+        "monthly_cost": 270.49
+    },
+    {
+        "id": 900,
+        "name": "Datadog Analytics Pro",
+        "provider": "Datadog",
+        "monthly_cost": 421.73
+    },
+    {
+        "id": 901,
+        "name": "Datadog CRM Basic",
+        "provider": "Datadog",
+        "monthly_cost": 243.5
+    },
+    {
+        "id": 902,
+        "name": "Adobe Creative Pack",
+        "provider": "Adobe",
+        "monthly_cost": 373.09
+    },
+    {
+        "id": 903,
+        "name": "Salesforce Project Manager",
+        "provider": "Salesforce",
+        "monthly_cost": 154.1
+    },
+    {
+        "id": 904,
+        "name": "Slack Project Manager",
+        "provider": "Slack",
+        "monthly_cost": 361.64
+    },
+    {
+        "id": 905,
+        "name": "Datadog Analytics Pro",
+        "provider": "Datadog",
+        "monthly_cost": 54.57
+    },
+    {
+        "id": 906,
+        "name": "Google Cloud Enterprise Suite",
+        "provider": "Google Cloud",
+        "monthly_cost": 371.3
+    },
+    {
+        "id": 907,
+        "name": "Atlassian Team Chat",
+        "provider": "Atlassian",
+        "monthly_cost": 373.87
+    },
+    {
+        "id": 908,
+        "name": "Microsoft Cloud Hosting",
+        "provider": "Microsoft",
+        "monthly_cost": 459.7
+    },
+    {
+        "id": 909,
+        "name": "Microsoft Team Chat",
+        "provider": "Microsoft",
+        "monthly_cost": 271.94
+    },
+    {
+        "id": 910,
+        "name": "Google Cloud Cloud Hosting",
+        "provider": "Google Cloud",
+        "monthly_cost": 410.45
+    },
+    {
+        "id": 911,
+        "name": "Adobe Project Manager",
+        "provider": "Adobe",
+        "monthly_cost": 17.24
+    },
+    {
+        "id": 912,
+        "name": "AWS Cloud Hosting",
+        "provider": "AWS",
+        "monthly_cost": 491.49
+    },
+    {
+        "id": 913,
+        "name": "Atlassian Project Manager",
+        "provider": "Atlassian",
+        "monthly_cost": 281.98
+    },
+    {
+        "id": 914,
+        "name": "Atlassian Monitoring Tool",
+        "provider": "Atlassian",
+        "monthly_cost": 272.84
+    },
+    {
+        "id": 915,
+        "name": "Datadog Monitoring Tool",
+        "provider": "Datadog",
+        "monthly_cost": 375.81
+    },
+    {
+        "id": 916,
+        "name": "Salesforce Enterprise Suite",
+        "provider": "Salesforce",
+        "monthly_cost": 20.09
+    },
+    {
+        "id": 917,
+        "name": "Adobe Enterprise Suite",
+        "provider": "Adobe",
+        "monthly_cost": 424.5
+    },
+    {
+        "id": 918,
+        "name": "Salesforce Project Manager",
+        "provider": "Salesforce",
+        "monthly_cost": 437.75
+    },
+    {
+        "id": 919,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 342.59
+    },
+    {
+        "id": 920,
+        "name": "AWS Monitoring Tool",
+        "provider": "AWS",
+        "monthly_cost": 86.01
+    },
+    {
+        "id": 921,
+        "name": "Datadog Monitoring Tool",
+        "provider": "Datadog",
+        "monthly_cost": 63.76
+    },
+    {
+        "id": 922,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 163.26
+    },
+    {
+        "id": 923,
+        "name": "Datadog CRM Basic",
+        "provider": "Datadog",
+        "monthly_cost": 392.66
+    },
+    {
+        "id": 924,
+        "name": "Slack Monitoring Tool",
+        "provider": "Slack",
+        "monthly_cost": 193.13
+    },
+    {
+        "id": 925,
+        "name": "Atlassian Team Chat",
+        "provider": "Atlassian",
+        "monthly_cost": 325.06
+    },
+    {
+        "id": 926,
+        "name": "Google Cloud Team Chat",
+        "provider": "Google Cloud",
+        "monthly_cost": 104.14
+    },
+    {
+        "id": 927,
+        "name": "Slack Cloud Hosting",
+        "provider": "Slack",
+        "monthly_cost": 467.69
+    },
+    {
+        "id": 928,
+        "name": "Microsoft Analytics Pro",
+        "provider": "Microsoft",
+        "monthly_cost": 262.13
+    },
+    {
+        "id": 929,
+        "name": "Slack Creative Pack",
+        "provider": "Slack",
+        "monthly_cost": 496.87
+    },
+    {
+        "id": 930,
+        "name": "Datadog Analytics Pro",
+        "provider": "Datadog",
+        "monthly_cost": 440.47
+    },
+    {
+        "id": 931,
+        "name": "Atlassian Monitoring Tool",
+        "provider": "Atlassian",
+        "monthly_cost": 374.17
+    },
+    {
+        "id": 932,
+        "name": "Adobe Enterprise Suite",
+        "provider": "Adobe",
+        "monthly_cost": 277.16
+    },
+    {
+        "id": 933,
+        "name": "AWS CRM Basic",
+        "provider": "AWS",
+        "monthly_cost": 456.69
+    },
+    {
+        "id": 934,
+        "name": "Atlassian Enterprise Suite",
+        "provider": "Atlassian",
+        "monthly_cost": 78.31
+    },
+    {
+        "id": 935,
+        "name": "Salesforce Analytics Pro",
+        "provider": "Salesforce",
+        "monthly_cost": 261.51
+    },
+    {
+        "id": 936,
+        "name": "Adobe Analytics Pro",
+        "provider": "Adobe",
+        "monthly_cost": 124.99
+    },
+    {
+        "id": 937,
+        "name": "Salesforce Cloud Hosting",
+        "provider": "Salesforce",
+        "monthly_cost": 106.89
+    },
+    {
+        "id": 938,
+        "name": "AWS CRM Basic",
+        "provider": "AWS",
+        "monthly_cost": 193.93
+    },
+    {
+        "id": 939,
+        "name": "AWS Monitoring Tool",
+        "provider": "AWS",
+        "monthly_cost": 338.52
+    },
+    {
+        "id": 940,
+        "name": "Slack Project Manager",
+        "provider": "Slack",
+        "monthly_cost": 404.08
+    },
+    {
+        "id": 941,
+        "name": "Slack Team Chat",
+        "provider": "Slack",
+        "monthly_cost": 320.73
+    },
+    {
+        "id": 942,
+        "name": "Datadog Cloud Hosting",
+        "provider": "Datadog",
+        "monthly_cost": 377.74
+    },
+    {
+        "id": 943,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 478.08
+    },
+    {
+        "id": 944,
+        "name": "Atlassian Team Chat",
+        "provider": "Atlassian",
+        "monthly_cost": 252.06
+    },
+    {
+        "id": 945,
+        "name": "AWS Cloud Hosting",
+        "provider": "AWS",
+        "monthly_cost": 72.65
+    },
+    {
+        "id": 946,
+        "name": "Atlassian Creative Pack",
+        "provider": "Atlassian",
+        "monthly_cost": 123.63
+    },
+    {
+        "id": 947,
+        "name": "AWS Enterprise Suite",
+        "provider": "AWS",
+        "monthly_cost": 64.87
+    },
+    {
+        "id": 948,
+        "name": "Microsoft Enterprise Suite",
+        "provider": "Microsoft",
+        "monthly_cost": 146.08
+    },
+    {
+        "id": 949,
+        "name": "Slack Enterprise Suite",
+        "provider": "Slack",
+        "monthly_cost": 185.52
+    },
+    {
+        "id": 950,
+        "name": "Microsoft Cloud Hosting",
+        "provider": "Microsoft",
+        "monthly_cost": 41.99
+    },
+    {
+        "id": 951,
+        "name": "Adobe CRM Basic",
+        "provider": "Adobe",
+        "monthly_cost": 489.39
+    },
+    {
+        "id": 952,
+        "name": "Google Cloud Monitoring Tool",
+        "provider": "Google Cloud",
+        "monthly_cost": 409.94
+    },
+    {
+        "id": 953,
+        "name": "Adobe Enterprise Suite",
+        "provider": "Adobe",
+        "monthly_cost": 435.06
+    },
+    {
+        "id": 954,
+        "name": "Google Cloud Team Chat",
+        "provider": "Google Cloud",
+        "monthly_cost": 68.63
+    },
+    {
+        "id": 955,
+        "name": "Atlassian CRM Basic",
+        "provider": "Atlassian",
+        "monthly_cost": 447.3
+    },
+    {
+        "id": 956,
+        "name": "AWS Analytics Pro",
+        "provider": "AWS",
+        "monthly_cost": 63.02
+    },
+    {
+        "id": 957,
+        "name": "Adobe CRM Basic",
+        "provider": "Adobe",
+        "monthly_cost": 345.35
+    },
+    {
+        "id": 958,
+        "name": "Atlassian Project Manager",
+        "provider": "Atlassian",
+        "monthly_cost": 90.85
+    },
+    {
+        "id": 959,
+        "name": "AWS Project Manager",
+        "provider": "AWS",
+        "monthly_cost": 302.08
+    },
+    {
+        "id": 960,
+        "name": "Slack Project Manager",
+        "provider": "Slack",
+        "monthly_cost": 258.92
+    },
+    {
+        "id": 961,
+        "name": "AWS CRM Basic",
+        "provider": "AWS",
+        "monthly_cost": 279.7
+    },
+    {
+        "id": 962,
+        "name": "Slack Monitoring Tool",
+        "provider": "Slack",
+        "monthly_cost": 322.49
+    },
+    {
+        "id": 963,
+        "name": "Slack Cloud Hosting",
+        "provider": "Slack",
+        "monthly_cost": 347.77
+    },
+    {
+        "id": 964,
+        "name": "Microsoft CRM Basic",
+        "provider": "Microsoft",
+        "monthly_cost": 249.32
+    },
+    {
+        "id": 965,
+        "name": "Microsoft Analytics Pro",
+        "provider": "Microsoft",
+        "monthly_cost": 324.71
+    },
+    {
+        "id": 966,
+        "name": "Slack Team Chat",
+        "provider": "Slack",
+        "monthly_cost": 268.82
+    },
+    {
+        "id": 967,
+        "name": "Atlassian Analytics Pro",
+        "provider": "Atlassian",
+        "monthly_cost": 16.39
+    },
+    {
+        "id": 968,
+        "name": "AWS Analytics Pro",
+        "provider": "AWS",
+        "monthly_cost": 373.87
+    },
+    {
+        "id": 969,
+        "name": "Microsoft Enterprise Suite",
+        "provider": "Microsoft",
+        "monthly_cost": 145.53
+    },
+    {
+        "id": 970,
+        "name": "Slack CRM Basic",
+        "provider": "Slack",
+        "monthly_cost": 263.47
+    },
+    {
+        "id": 971,
+        "name": "Datadog Analytics Pro",
+        "provider": "Datadog",
+        "monthly_cost": 36.29
+    },
+    {
+        "id": 972,
+        "name": "Salesforce Cloud Hosting",
+        "provider": "Salesforce",
+        "monthly_cost": 130.02
+    },
+    {
+        "id": 973,
+        "name": "Adobe Analytics Pro",
+        "provider": "Adobe",
+        "monthly_cost": 157.03
+    },
+    {
+        "id": 974,
+        "name": "Adobe Cloud Hosting",
+        "provider": "Adobe",
+        "monthly_cost": 444.63
+    },
+    {
+        "id": 975,
+        "name": "Google Cloud Monitoring Tool",
+        "provider": "Google Cloud",
+        "monthly_cost": 273.51
+    },
+    {
+        "id": 976,
+        "name": "AWS Team Chat",
+        "provider": "AWS",
+        "monthly_cost": 245.57
+    },
+    {
+        "id": 977,
+        "name": "Adobe Project Manager",
+        "provider": "Adobe",
+        "monthly_cost": 320.92
+    },
+    {
+        "id": 978,
+        "name": "Datadog Team Chat",
+        "provider": "Datadog",
+        "monthly_cost": 404.82
+    },
+    {
+        "id": 979,
+        "name": "Salesforce CRM Basic",
+        "provider": "Salesforce",
+        "monthly_cost": 151.77
+    },
+    {
+        "id": 980,
+        "name": "AWS Team Chat",
+        "provider": "AWS",
+        "monthly_cost": 129.76
+    },
+    {
+        "id": 981,
+        "name": "AWS Team Chat",
+        "provider": "AWS",
+        "monthly_cost": 63.63
+    },
+    {
+        "id": 982,
+        "name": "AWS CRM Basic",
+        "provider": "AWS",
+        "monthly_cost": 320.89
+    },
+    {
+        "id": 983,
+        "name": "Adobe Project Manager",
+        "provider": "Adobe",
+        "monthly_cost": 233.05
+    },
+    {
+        "id": 984,
+        "name": "Salesforce Creative Pack",
+        "provider": "Salesforce",
+        "monthly_cost": 128.07
+    },
+    {
+        "id": 985,
+        "name": "Google Cloud CRM Basic",
+        "provider": "Google Cloud",
+        "monthly_cost": 17.46
+    },
+    {
+        "id": 986,
+        "name": "Datadog Cloud Hosting",
+        "provider": "Datadog",
+        "monthly_cost": 46.87
+    },
+    {
+        "id": 987,
+        "name": "Atlassian Project Manager",
+        "provider": "Atlassian",
+        "monthly_cost": 464.49
+    },
+    {
+        "id": 988,
+        "name": "Google Cloud Enterprise Suite",
+        "provider": "Google Cloud",
+        "monthly_cost": 446.38
+    },
+    {
+        "id": 989,
+        "name": "Atlassian Cloud Hosting",
+        "provider": "Atlassian",
+        "monthly_cost": 12.23
+    },
+    {
+        "id": 990,
+        "name": "Slack CRM Basic",
+        "provider": "Slack",
+        "monthly_cost": 59.92
+    },
+    {
+        "id": 991,
+        "name": "Adobe Monitoring Tool",
+        "provider": "Adobe",
+        "monthly_cost": 460.67
+    },
+    {
+        "id": 992,
+        "name": "AWS Cloud Hosting",
+        "provider": "AWS",
+        "monthly_cost": 363.56
+    },
+    {
+        "id": 993,
+        "name": "Datadog Monitoring Tool",
+        "provider": "Datadog",
+        "monthly_cost": 40.32
+    },
+    {
+        "id": 994,
+        "name": "Microsoft Creative Pack",
+        "provider": "Microsoft",
+        "monthly_cost": 266.14
+    },
+    {
+        "id": 995,
+        "name": "Adobe Creative Pack",
+        "provider": "Adobe",
+        "monthly_cost": 347.5
+    },
+    {
+        "id": 996,
+        "name": "Datadog Analytics Pro",
+        "provider": "Datadog",
+        "monthly_cost": 376.61
+    },
+    {
+        "id": 997,
+        "name": "Salesforce Analytics Pro",
+        "provider": "Salesforce",
+        "monthly_cost": 80.4
+    },
+    {
+        "id": 998,
+        "name": "Atlassian Cloud Hosting",
+        "provider": "Atlassian",
+        "monthly_cost": 54.17
+    },
+    {
+        "id": 999,
+        "name": "Datadog Cloud Hosting",
+        "provider": "Datadog",
+        "monthly_cost": 38.12
+    },
+    {
+        "id": 1000,
+        "name": "Slack CRM Basic",
+        "provider": "Slack",
+        "monthly_cost": 232.7
+    }
+]
