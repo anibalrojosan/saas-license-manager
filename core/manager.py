@@ -5,6 +5,7 @@ the collection of software licenses.
 
 from core.models import License
 from collections import Counter
+import json
 
 class LicenseManager:
     """
@@ -115,3 +116,84 @@ class LicenseManager:
         for lic in self.licenses:
             total += lic.monthly_cost
         return round(total, 2)
+
+    def load_from_json(self, file_path: str) -> bool:
+        """
+        Loads license data from a JSON file and populates the manager.
+        
+        Args:
+            file_path (str): The path to the JSON file.
+            
+        Returns:
+            bool: True if loaded successfully, False otherwise.
+        """
+        try:
+            with open(file_path, 'r', encoding='utf-8') as file:
+                data = json.load(file)
+                
+                for item in data:
+                    # Create a real License object for each entry
+                    # This automatically updates the Counter and Licenses list
+                    new_license = License(
+                        license_id=item['id'],
+                        name=item['name'],
+                        provider=item['provider'],
+                        monthly_cost=item['monthly_cost']
+                    )
+                    self.add_license(new_license)
+                    
+            print(f"Successfully loaded {len(data)} licenses from {file_path}")
+            return True
+            
+        except FileNotFoundError:
+            print(f"Error: The file {file_path} was not found.")
+            return False
+        except json.JSONDecodeError:
+            print(f"Error: Failed to decode JSON from {file_path}.")
+            return False
+        except KeyError as e:
+            print(f"Error: Missing expected field in JSON: {e}")
+            return False
+
+    # --- Reporting & Filtering ---
+
+    def get_licenses_by_provider(self, provider_name: str) -> list:
+        """
+        Args:
+            provider_name (str): The name of the provider to filter by.
+
+        Returns:
+            list: A list of licenses that belong to the specified provider.
+        """
+        return [lic for lic in self.licenses if lic.provider.lower() == provider_name.lower()]
+
+    def get_expensive_licenses(self, threshold: float) -> list:
+        """
+        Args:
+            threshold (float): The threshold cost to filter by.
+
+        Returns:
+            list: A list of licenses with a monthly cost higher than the threshold.
+        """
+        return [lic for lic in self.licenses if lic.monthly_cost > threshold]
+
+    def get_summary_statistics(self) -> dict:
+        """
+        Args:
+            None
+
+        Returns:
+            dict: A dictionary with key metrics of the system.
+        """
+        total_licenses = len(self.licenses)
+        total_cost = self.calculate_total_monthly_cost()
+        
+        # Avoid division by zero
+        average_cost = round(total_cost / total_licenses, 2) if total_licenses > 0 else 0.0
+        
+        return {
+            "total_count": total_licenses,
+            "unique_providers_count": len(self.providers),
+            "total_monthly_spend": total_cost,
+            "average_license_cost": average_cost
+        }
