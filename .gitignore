@@ -12,6 +12,3 @@ ENV/
 .vscode/
 .idea/
 .cursor/
-
-# Other files
-requerimientos_ABP#3.txt
