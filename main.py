@@ -11,8 +11,13 @@ class MenuHandler:
     """
     def __init__(self):
         self.manager = LicenseManager()
-        # Load sample data at start
-        self.manager.load_from_json("data/licenses.json")
+        self.data_file = "data/licenses.json"
+        self.manager.load_from_json(self.data_file)
+
+    def _save_changes(self):
+        """Helper to save changes to disk."""
+        if self.manager.save_to_json(self.data_file):
+            print("Changes saved to disk.")
 
     def display_menu(self):
         """Prints the main menu options."""
@@ -75,6 +80,7 @@ class MenuHandler:
             new_lic = License(lic_id, name, provider, cost)
             if self.manager.add_license(new_lic):
                 print(f"\nLicense '{name}' added successfully!")
+                self._save_changes()
         except ValueError:
             print("\nError: Invalid input. Please enter numbers for ID and Cost.")
 
@@ -105,6 +111,7 @@ class MenuHandler:
             new_cost = float(input("Enter New Monthly Cost: "))
             if self.manager.update_license_cost(lic_id, new_cost):
                 print(f"\nCost updated successfully for ID {lic_id}.")
+                self._save_changes()
             else:
                 print(f"\nLicense with ID {lic_id} not found.")
         except ValueError:
@@ -115,6 +122,7 @@ class MenuHandler:
             lic_id = int(input("\nEnter License ID to remove: "))
             if self.manager.remove_license(lic_id):
                 print(f"\nLicense {lic_id} removed successfully.")
+                self._save_changes()
             else:
                 print(f"\nLicense with ID {lic_id} not found.")
         except ValueError:
