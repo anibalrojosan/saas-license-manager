@@ -11,8 +11,8 @@ A modular Python-based management system designed to track SaaS licenses, costs,
 ## Requirements
 - Python 3.10+
 
-## Project Context
-This system was developed as part of the **Fullstack Django Bootcamp (ABP#3)**. It follows **PEP 8** standards and emphasizes the use of modular logic and advanced data structures like lists, dictionaries, and sets.
+## Documentation
+![Class Diagram](./doc/classdiagram.svg)
 
 ## Author
-Anibal
+Anibal Rojo
