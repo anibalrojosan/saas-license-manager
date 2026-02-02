@@ -5,6 +5,7 @@ the collection of software licenses.
 
 from core.models import License
 from collections import Counter
+import json
 
 class LicenseManager:
     """
@@ -115,6 +116,44 @@ class LicenseManager:
         for lic in self.licenses:
             total += lic.monthly_cost
         return round(total, 2)
+
+    def load_from_json(self, file_path: str) -> bool:
+        """
+        Loads license data from a JSON file and populates the manager.
+        
+        Args:
+            file_path (str): The path to the JSON file.
+            
+        Returns:
+            bool: True if loaded successfully, False otherwise.
+        """
+        try:
+            with open(file_path, 'r', encoding='utf-8') as file:
+                data = json.load(file)
+                
+                for item in data:
+                    # Create a real License object for each entry
+                    # This automatically updates the Counter and Licenses list
+                    new_license = License(
+                        license_id=item['id'],
+                        name=item['name'],
+                        provider=item['provider'],
+                        monthly_cost=item['monthly_cost']
+                    )
+                    self.add_license(new_license)
+                    
+            print(f"Successfully loaded {len(data)} licenses from {file_path}")
+            return True
+            
+        except FileNotFoundError:
+            print(f"Error: The file {file_path} was not found.")
+            return False
+        except json.JSONDecodeError:
+            print(f"Error: Failed to decode JSON from {file_path}.")
+            return False
+        except KeyError as e:
+            print(f"Error: Missing expected field in JSON: {e}")
+            return False
 
     # --- Reporting & Filtering ---
 
