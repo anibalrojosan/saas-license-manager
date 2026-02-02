@@ -6,12 +6,6 @@
         "monthly_cost": 323.37
     },
     {
-        "id": 2,
-        "name": "Atlassian Cloud Hosting",
-        "provider": "Atlassian",
-        "monthly_cost": 381.37
-    },
-    {
         "id": 3,
         "name": "Adobe Project Manager",
         "provider": "Adobe",

@@ -155,6 +155,21 @@ class LicenseManager:
             print(f"Error: Missing expected field in JSON: {e}")
             return False
 
+    def save_to_json(self, file_path: str) -> bool:
+        """
+        Saves the current list of licenses to a JSON file.
+        """
+        try:
+            # Convert all License objects to dictionaries
+            data_to_save = [lic.to_dict() for lic in self.licenses]
+            
+            with open(file_path, 'w', encoding='utf-8') as file:
+                json.dump(data_to_save, file, indent=4)
+            return True
+        except Exception as e:
+            print(f"Error saving data: {e}")
+            return False
+
     # --- Reporting & Filtering ---
 
     def get_licenses_by_provider(self, provider_name: str) -> list:

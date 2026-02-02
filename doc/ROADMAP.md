@@ -11,32 +11,32 @@ This project follows a feature-branch workflow. Each phase corresponds to a spec
 
 ### Phase 2: Core Logic & Data Structures 🧠
 **Branch:** `feature/core-logic`
-- [ ] Implement `LicenseManager` class in `core/manager.py`.
-- [ ] Set up the main list to store license objects.
-- [ ] Implement a **Set** to manage unique software providers.
-- [ ] Create the `to_dict()` method for data manipulation.
+- [x] Implement `LicenseManager` class in `core/manager.py`.
+- [x] Set up the main list to store license objects.
+- [x] Implement a **Set** to manage unique software providers.
+- [x] Create the `to_dict()` method for data manipulation.
 
 ### Phase 3: CRUD Operations 🛠️
 **Branch:** `feature/license-crud`
-- [ ] **Create**: Add functionality to input new licenses.
-- [ ] **Read**: Display all licenses in a formatted table.
-- [ ] **Update**: Modify existing license details.
-- [ ] **Delete**: Remove licenses by ID.
+- [x] **Create**: Add functionality to input new licenses.
+- [x] **Read**: Display all licenses in a formatted table.
+- [x] **Update**: Modify existing license details.
+- [x] **Delete**: Remove licenses by ID.
 
 ### Phase 4: Business Logic & Reports 📊
 **Branch:** `feature/reporting`
-- [ ] Implement total monthly cost calculation.
-- [ ] Add filtering capabilities (e.g., search by provider).
-- [ ] Create a summary report of all active subscriptions.
+- [x] Implement total monthly cost calculation.
+- [x] Add filtering capabilities (e.g., search by provider).
+- [x] Create a summary report of all active subscriptions.
 
 ### Phase 5: User Interface & Validation 🖥️
 **Branch:** `feature/ui-ux`
-- [ ] Build the main menu loop in `main.py`.
-- [ ] Implement robust input validation (prevent empty strings or invalid prices).
-- [ ] Add error handling (`try/except`) for user inputs.
+- [x] Build the main menu loop in `main.py`.
+- [x] Implement robust input validation (prevent empty strings or invalid prices).
+- [x] Add error handling (`try/except`) for user inputs.
 
 ### Phase 6: Final Review & PEP 8
 **Branch:** `feature/final-review`
-- [ ] Final code refactoring.
-- [ ] Ensure full compliance with **PEP 8** standards.
-- [ ] Complete documentation and final testing.
+- [x] Final code refactoring.
+- [x] Ensure full compliance with **PEP 8** standards.
+- [x] Complete documentation and final testing.
