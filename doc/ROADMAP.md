@@ -3,11 +3,11 @@
 This project follows a feature-branch workflow. Each phase corresponds to a specific branch and set of requirements.
 
 ### Phase 1: Project Foundation 🏗️
-**Branch:** `main`
+**Branch:** `feature/project-setup`
 - [x] Initialize Git repository.
 - [x] Create project structure (folders & `__init__.py` files).
 - [x] Add `.gitignore`, `README.md`, and `doc/classdiagram`.
-- [ ] Define the base `License` class in `core/models.py`.
+- [x] Define the base `License` class in `core/models.py`.
 
 ### Phase 2: Core Logic & Data Structures 🧠
 **Branch:** `feature/core-logic`
