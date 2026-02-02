@@ -12,7 +12,7 @@ A modular Python-based management system designed to track SaaS licenses, costs,
 - Python 3.10+
 
 ## Documentation
-![Class Diagram](doc/classdiagram.svg)
+![Class Diagram](doc/classdiagram.png)
 
 ## Author
 Anibal Rojo
