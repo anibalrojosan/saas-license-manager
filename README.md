@@ -36,7 +36,7 @@ python3 main.py
 
 ## 📂 Project Structure
 ```text
-python_sence_ABP3/
+saas-license-manager/
 │
 ├── main.py                 # Entry point and User Interface (MenuHandler)
 ├── core/                   # Business logic (The "Engine")
@@ -61,7 +61,7 @@ python_sence_ABP3/
 - **Modularity**: Strict separation between data models, business logic, and UI.
 
 ## 📊 Documentation
+The class diagram shown below is a visual representation of the classes and their relationships in the project.
 ![Class Diagram](doc/classdiagram.png)
 
-## 👤 Author
-Aníbal Rojo
+> This project was developed with ❤️ by [Aníbal Rojo](https://github.com/anibalrojosan)
